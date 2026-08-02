@@ -1,0 +1,9 @@
+---
+permalink: /indice.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for p in collections.posts %}
+{"t": {{ p.data.title | jsonify | safe }}, "u": {{ p.url | jsonify | safe }}, "c": {{ p.data.categoria | jsonify | safe }}, "d": {{ (p.date | dataCurta) | jsonify | safe }}, "r": {{ p.data.resumo | jsonify | safe }}}{% if not loop.last %},{% endif %}
+{%- endfor %}
+]

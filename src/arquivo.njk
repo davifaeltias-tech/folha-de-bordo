@@ -1,0 +1,26 @@
+---
+layout: base.njk
+permalink: /arquivo/
+title: Arquivo
+resumo: Todas as publicações da Folha de Bordo, da mais recente à mais antiga.
+---
+<header class="secaocab">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--geral">Arquivo</span>
+    <h1>Tudo que já publicamos</h1>
+    <p>{{ collections.posts.length }} publicações, da mais recente à mais antiga.</p>
+  </div>
+</header>
+<section class="wrap secao">
+  <ol class="arquivo">
+    {%- for p in collections.posts %}
+    <li>
+      <a href="{{ p.url }}">
+        <time datetime="{{ p.date | iso }}">{{ p.date | dataCurta }}</time>
+        <span class="etiqueta etiqueta--{{ p.data.categoria | catCor }}">{{ p.data.categoria }}</span>
+        <span class="arquivo__titulo">{{ p.data.title }}</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ol>
+</section>

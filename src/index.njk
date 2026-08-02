@@ -1,0 +1,50 @@
+---
+layout: base.njk
+eleventyExcludeFromCollections: true
+---
+{% from "cartao.njk" import cartao, linha %}
+{% set todos = collections.posts %}
+{% set destaque = todos[0] %}
+{% set secundarios = todos | skip(1) | limit(2) %}
+{% set ultimas = todos | skip(3) | limit(8) %}
+
+<section class="capa wrap">
+  <div class="capa__principal">
+    <article class="manchete">
+      <a href="{{ destaque.url }}">
+        <div class="manchete__foto">
+          {% if destaque.data.imagem %}<img src="{{ destaque.data.imagem }}" alt="" fetchpriority="high" decoding="async">{% endif %}
+        </div>
+        <div class="manchete__texto">
+          <span class="etiqueta etiqueta--{{ destaque.data.categoria | catCor }}">{{ destaque.data.categoria }}</span>
+          <h1 class="manchete__titulo">{{ destaque.data.title }}</h1>
+          <p class="manchete__resumo">{{ destaque.data.resumo }}</p>
+          <time datetime="{{ destaque.date | iso }}">{{ destaque.date | dataBR }}</time>
+        </div>
+      </a>
+    </article>
+  </div>
+  <aside class="capa__lado">
+    {%- for p in secundarios %}{{ cartao(p, "m") }}{% endfor %}
+  </aside>
+</section>
+
+<section class="wrap secao">
+  <div class="secao__cab"><h2>Últimas</h2><a class="secao__mais" href="/arquivo/">Ver tudo</a></div>
+  <div class="grade grade--4">
+    {%- for p in ultimas %}{{ cartao(p, "p") }}{% endfor %}
+  </div>
+</section>
+
+{%- for e in collections.editorias %}
+<section class="wrap secao secao--{{ e.cor }}">
+  <div class="secao__cab">
+    <h2>{{ e.nome }}</h2>
+    <a class="secao__mais" href="/editoria/{{ e.slug }}/">Ver os {{ e.posts.length }}</a>
+  </div>
+  <p class="secao__desc">{{ e.desc }}</p>
+  <div class="grade grade--3">
+    {%- for p in e.posts | limit(3) %}{{ cartao(p, "g") }}{% endfor %}
+  </div>
+</section>
+{%- endfor %}

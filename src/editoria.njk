@@ -1,0 +1,26 @@
+---
+layout: base.njk
+pagination:
+  data: collections.editorias
+  size: 1
+  alias: editoria
+permalink: "/editoria/{{ editoria.slug }}/"
+eleventyComputed:
+  title: "{{ editoria.nome }}"
+  resumo: "{{ editoria.desc }}"
+---
+{% from "cartao.njk" import cartao %}
+<header class="secaocab secaocab--{{ editoria.cor }}">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--{{ editoria.cor }}">Editoria</span>
+    <h1>{{ editoria.nome }}</h1>
+    <p>{{ editoria.desc }}</p>
+    <span class="secaocab__contagem">{{ editoria.posts.length }} publicações</span>
+  </div>
+</header>
+
+<section class="wrap secao">
+  <div class="grade grade--3">
+    {%- for p in editoria.posts %}{{ cartao(p, "g") }}{% endfor %}
+  </div>
+</section>

@@ -1,0 +1,22 @@
+---
+layout: base.njk
+permalink: /busca/
+title: Busca
+resumo: Procure por título, editoria ou trecho do texto.
+---
+<header class="secaocab">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--geral">Busca</span>
+    <h1>Procurar na Folha de Bordo</h1>
+    <p>Digite parte do título, o nome de um livro ou uma palavra do texto.</p>
+  </div>
+</header>
+<section class="wrap secao">
+  <form class="busca-grande" role="search" onsubmit="return false;">
+    <label class="sr" for="q">Termo de busca</label>
+    <input id="q" type="search" placeholder="Ex.: Narnia, podcast, futebol…" autocomplete="off" autofocus>
+  </form>
+  <p class="busca-status" id="status" role="status"></p>
+  <ol class="arquivo" id="resultados"></ol>
+</section>
+<script src="/assets/js/busca.js" defer></script>
