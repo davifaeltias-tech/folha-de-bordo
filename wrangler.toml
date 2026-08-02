@@ -1,3 +1,10 @@
 name = "folha-de-bordo"
 compatibility_date = "2026-01-01"
 pages_build_output_dir = "_site"
+
+[vars]
+# Identificador publico do aplicativo OAuth do GitHub.
+# Nao e segredo: ele aparece na URL de login do painel.
+# O par dele, GITHUB_CLIENT_SECRET, fica como Secret no painel da Cloudflare.
+GITHUB_CLIENT_ID = "Ov23ligjYFNmAF6pmxpf"
+NODE_VERSION = "22"
