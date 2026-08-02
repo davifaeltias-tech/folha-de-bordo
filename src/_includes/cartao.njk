@@ -1,0 +1,29 @@
+{% macro cartao(p, tam="m") %}
+<article class="cartao cartao--{{ tam }}">
+  <a class="cartao__link" href="{{ p.url }}">
+    <div class="cartao__foto">
+      {% if p.data.imagem %}
+      <img src="{{ p.data.imagem }}" alt="" loading="lazy" decoding="async">
+      {% else %}
+      <div class="cartao__vazio" aria-hidden="true"><span>{{ p.data.title | truncate(1, true, "") }}</span></div>
+      {% endif %}
+    </div>
+    <div class="cartao__texto">
+      <span class="etiqueta etiqueta--{{ p.data.categoria | catCor }}">{{ p.data.categoria }}</span>
+      <h3 class="cartao__titulo">{{ p.data.title }}</h3>
+      {% if tam == "g" or tam == "gg" %}<p class="cartao__resumo">{{ p.data.resumo }}</p>{% endif %}
+      <time class="cartao__data" datetime="{{ p.date | iso }}">{{ p.date | dataCurta }}</time>
+    </div>
+  </a>
+</article>
+{% endmacro %}
+
+{% macro linha(p) %}
+<article class="linha">
+  <a href="{{ p.url }}">
+    <span class="etiqueta etiqueta--{{ p.data.categoria | catCor }}">{{ p.data.categoria }}</span>
+    <h3>{{ p.data.title }}</h3>
+    <time datetime="{{ p.date | iso }}">{{ p.date | dataCurta }}</time>
+  </a>
+</article>
+{% endmacro %}

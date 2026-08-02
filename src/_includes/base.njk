@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="{{ site.idioma }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if title %}{{ title }} · {{ site.nome }}{% else %}{{ site.nome }} — {{ site.descricao }}{% endif %}</title>
+<meta name="description" content="{{ (resumo or site.descricao) | semTags }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.nome }}" href="/feed.xml">
+<meta property="og:site_name" content="{{ site.nome }}">
+<meta property="og:title" content="{{ title or site.nome }}">
+<meta property="og:description" content="{{ (resumo or site.descricao) | semTags }}">
+<meta property="og:type" content="{% if layout == 'post.njk' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+{% if imagem %}<meta property="og:image" content="{{ imagem }}">{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+<header class="cabecalho">
+  <div class="faixa">
+    <div class="wrap faixa__int">
+      <span class="faixa__data">{{ build.agora | dataBR }}</span>
+      <span class="faixa__selo">Maple Bear · João Pessoa</span>
+    </div>
+  </div>
+
+  <div class="wrap masthead">
+    <a class="marca" href="/">
+      <span class="marca__nome">Folha<em> de Bordo</em></span>
+      <span class="marca__sub">{{ site.tagline }}</span>
+    </a>
+    <form class="busca-topo" action="/busca/" method="get" role="search">
+      <label class="sr" for="q-topo">Buscar no site</label>
+      <input id="q-topo" type="search" name="q" placeholder="Buscar…" autocomplete="off">
+      <button type="submit" aria-label="Buscar">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+      </button>
+    </form>
+  </div>
+
+  <nav class="nav" aria-label="Editorias">
+    <div class="wrap nav__int">
+      <a href="/" class="nav__link {% if page.url == '/' %}is-atual{% endif %}">Início</a>
+      {%- for e in collections.editorias %}
+      <a href="/editoria/{{ e.slug }}/" class="nav__link nav__link--{{ e.cor }} {% if page.url.startsWith('/editoria/' + e.slug) %}is-atual{% endif %}">{{ e.nome }}</a>
+      {%- endfor %}
+      <a href="/sobre/" class="nav__link {% if page.url == '/sobre/' %}is-atual{% endif %}">Sobre</a>
+    </div>
+  </nav>
+</header>
+
+<main id="conteudo">
+{{ content | safe }}
+</main>
+
+<footer class="rodape">
+  <div class="wrap rodape__int">
+    <div class="rodape__marca">
+      <span class="marca__nome">Folha<em> de Bordo</em></span>
+      <p>{{ site.descricao }}</p>
+    </div>
+    <nav class="rodape__nav" aria-label="Rodapé">
+      <h2>Editorias</h2>
+      <ul>
+        {%- for e in collections.editorias %}
+        <li><a href="/editoria/{{ e.slug }}/">{{ e.nome }} <span>{{ e.posts.length }}</span></a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <nav class="rodape__nav" aria-label="Mais">
+      <h2>Mais</h2>
+      <ul>
+        <li><a href="/sobre/">Sobre o blog</a></li>
+        <li><a href="/busca/">Buscar</a></li>
+        <li><a href="/feed.xml">RSS</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrap rodape__fim">
+    <p>Feito pelos alunos do Year 7 · Maple Bear João Pessoa</p>
+    <p>{{ build.ano }}</p>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,46 @@
+---
+layout: base.njk
+---
+{% from "cartao.njk" import cartao %}
+{% set relacionados = collections.posts | exceto(page.url) | limit(40) %}
+{% set mesmaCat = [] %}
+{% for p in relacionados %}{% if p.data.categoria == categoria %}{% set mesmaCat = (mesmaCat.push(p), mesmaCat) %}{% endif %}{% endfor %}
+
+<article class="artigo">
+  <header class="artigo__cab wrap">
+    <nav class="migalhas" aria-label="Você está em">
+      <a href="/">Início</a>
+      <span aria-hidden="true">›</span>
+      <a href="/editoria/{{ categoria | catSlug }}/">{{ categoria }}</a>
+    </nav>
+    <span class="etiqueta etiqueta--{{ categoria | catCor }}">{{ categoria }}</span>
+    <h1 class="artigo__titulo">{{ title }}</h1>
+    <p class="artigo__linhafina">{{ resumo }}</p>
+    <div class="artigo__meta">
+      <time datetime="{{ page.date | iso }}">{{ page.date | dataBR }}</time>
+    </div>
+  </header>
+
+  {% if imagem %}
+  <figure class="artigo__foto wrap">
+    <img src="{{ imagem }}" alt="" fetchpriority="high" decoding="async">
+  </figure>
+  {% endif %}
+
+  <div class="artigo__corpo">
+    {{ content | safe }}
+  </div>
+
+  <footer class="artigo__pe wrap">
+    <a class="botao" href="/editoria/{{ categoria | catSlug }}/">Mais em {{ categoria }}</a>
+  </footer>
+</article>
+
+{% if mesmaCat.length %}
+<section class="wrap secao secao--relacionados">
+  <div class="secao__cab"><h2>Leia também</h2></div>
+  <div class="grade grade--3">
+    {%- for p in mesmaCat | limit(3) %}{{ cartao(p, "p") }}{% endfor %}
+  </div>
+</section>
+{% endif %}
