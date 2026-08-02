@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: davifaeltias-tech/folha-de-bordo
+  branch: main
+  base_url: https://folha-de-bordo.pages.dev
+  auth_endpoint: /api/auth
+
+publish_mode: editorial_workflow
+locale: pt
+site_url: https://folha-de-bordo.pages.dev
+display_url: https://folha-de-bordo.pages.dev
+
+media_folder: "src/assets/img"
+public_folder: "/assets/img"
+
+collections:
+  - name: posts
+    label: "Publicações"
+    label_singular: "Publicação"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+    summary: "{{title}} — {{categoria}} — {{date | date('DD/MM/YYYY')}}"
+    sortable_fields: [date, title, categoria]
+    view_filters:
+      - label: "Resenhas Literárias"
+        field: categoria
+        pattern: "Resenhas Literárias"
+      - label: "Podcast"
+        field: categoria
+        pattern: "Podcast"
+      - label: "Artigos de Opinião"
+        field: categoria
+        pattern: "Artigos de Opinião"
+      - label: "Nossos Livros"
+        field: categoria
+        pattern: "Nossos Livros"
+    fields:
+      - { name: title, label: "Título", widget: string, hint: "O título que aparece na capa." }
+      - { name: date, label: "Data de publicação", widget: datetime, format: "YYYY-MM-DD HH:mm:ss", date_format: "DD/MM/YYYY", time_format: "HH:mm" }
+      - name: categoria
+        label: "Editoria"
+        widget: select
+        default: "Resenhas Literárias"
+        options: ["Resenhas Literárias", "Podcast", "Artigos de Opinião", "Nossos Livros", "Geral"]
+      - { name: slug, label: "Endereço (slug)", widget: string, hint: "Só letras minúsculas e hífens. Ex.: o-ladrao-de-raios" }
+      - { name: resumo, label: "Resumo", widget: text, hint: "Duas linhas. Aparece na capa e no Google.", pattern: ['^.{40,300}$', 'Escreva entre 40 e 300 caracteres.'] }
+      - { name: imagem, label: "Imagem de capa", widget: image, required: false, hint: "Formato deitado funciona melhor (16:9)." }
+      - { name: body, label: "Texto", widget: markdown }
