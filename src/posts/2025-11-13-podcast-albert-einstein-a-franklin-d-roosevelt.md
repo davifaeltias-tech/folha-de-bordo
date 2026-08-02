@@ -11,4 +11,4 @@ imagem: "/assets/img/1-einstein-and-szilard-letter-to-roosevelt-nnsa-1.webp"
 
 <p>No episódio de hoje, vamos mergulhar em um dos documentos mais importantes da história moderna: a carta de Albert Einstein a Franklin D. Roosevelt.</p>
 
-<p><a href="https://open.spotify.com/episode/0oprlmI5NP2Svc4eimthbN?si=UsKOYJN_S5ipsC-QjRf1Zw">https://open.spotify.com/episode/0oprlmI5NP2Svc4eimthbN?si=UsKOYJN_S5ipsC-QjRf1Zw</a></p>
+<p><a href="<div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/0oprlmI5NP2Svc4eimthbN" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div>"><div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/0oprlmI5NP2Svc4eimthbN" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div></a></p>

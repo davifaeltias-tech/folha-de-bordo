@@ -13,4 +13,4 @@ imagem: "/assets/img/pagina-carta-1.jpg"
 
 <p>A carta relata o&nbsp;"descobrimento do Brasil", descrevendo as belezas da nova terra e o&nbsp;primeiro contato com os povos indígenas.</p>
 
-<p><a href="https://open.spotify.com/episode/39z7p5KzvtDWhPs98jI4TU?si=3PrBGbZvSgG0pE2NVZ8a7Q">https://open.spotify.com/episode/39z7p5KzvtDWhPs98jI4TU?si=3PrBGbZvSgG0pE2NVZ8a7Q</a></p>
+<p><a href="<div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/39z7p5KzvtDWhPs98jI4TU" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div>"><div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/39z7p5KzvtDWhPs98jI4TU" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div></a></p>

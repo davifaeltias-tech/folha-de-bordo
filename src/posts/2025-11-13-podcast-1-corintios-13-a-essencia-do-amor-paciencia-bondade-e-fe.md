@@ -11,4 +11,4 @@ imagem: "/assets/img/1280x1280.webp"
 
 <p>O episódio do podcast <em>Central das Cartas</em> explora uma correspondência marcante do período imperial brasileiro, revelando os dilemas políticos e pessoais que atravessaram o século XIX. Os apresentadores contextualizam o documento, destacando as tensões entre poder e idealismo que marcaram a época.</p>
 
-<p><a href="https://open.spotify.com/episode/7Ept9SX28uwugK7HWq70b1?si=xlwNbqZoSlquWSizOD70HQ">https://open.spotify.com/episode/7Ept9SX28uwugK7HWq70b1?si=xlwNbqZoSlquWSizOD70HQ</a></p>
+<p><a href="<div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/7Ept9SX28uwugK7HWq70b1" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div>"><div class="embed embed--spotify"><iframe src="https://open.spotify.com/embed/episode/7Ept9SX28uwugK7HWq70b1" width="100%" height="232" frameborder="0" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" title="Player do Spotify"></iframe></div></a></p>
