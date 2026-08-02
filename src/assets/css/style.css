@@ -1,0 +1,200 @@
+/* ============ Folha de Bordo — tema próprio ============ */
+:root{
+  --ink:#12161c; --ink-2:#39424f; --muted:#5a6472;
+  --line:#e4e8ed; --line-forte:#c9d1da;
+  --bg:#fff; --surface:#f7f9fb; --surface-2:#eef2f6;
+  --marca:#c8102e;
+  --resenha:#c8102e; --podcast:#6d28d9; --opiniao:#0b6bcb; --livros:#0f766e; --geral:#475569;
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --wrap:1220px; --raio:4px;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+  font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
+img{max-width:100%;height:auto;display:block}
+a{color:inherit}
+h1,h2,h3,h4{margin:0;line-height:1.12;letter-spacing:-.02em;font-weight:800}
+p{margin:0}
+ul,ol{margin:0;padding:0}
+.wrap{width:100%;max-width:var(--wrap);margin-inline:auto;padding-inline:20px}
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.pular{position:absolute;left:-9999px;top:0;background:var(--ink);color:#fff;padding:12px 18px;z-index:99}
+.pular:focus{left:0}
+:focus-visible{outline:3px solid var(--opiniao);outline-offset:2px}
+
+.faixa{background:var(--ink);color:#fff}
+.faixa__int{display:flex;justify-content:space-between;align-items:center;
+  height:34px;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:600}
+.faixa__selo{color:#9aa6b4}
+.masthead{display:flex;align-items:center;justify-content:space-between;gap:24px;padding-block:26px 22px}
+.marca{text-decoration:none;display:block}
+.marca__nome{display:block;font-size:clamp(30px,5vw,46px);font-weight:900;letter-spacing:-.045em;line-height:1}
+.marca__nome em{font-style:normal;color:var(--marca)}
+.marca__sub{display:block;margin-top:7px;font-size:12.5px;color:var(--muted);letter-spacing:.04em;font-weight:500}
+.busca-topo{display:flex;align-items:center;gap:6px;border:1.5px solid var(--line-forte);
+  border-radius:999px;padding:7px 8px 7px 16px;background:var(--bg)}
+.busca-topo input{border:0;outline:0;font:inherit;font-size:14px;width:170px;background:transparent;color:inherit}
+.busca-topo button{border:0;background:var(--ink);color:#fff;width:31px;height:31px;
+  border-radius:999px;display:grid;place-items:center;cursor:pointer;flex:none}
+.busca-topo:focus-within{border-color:var(--ink)}
+
+.nav{border-block:1.5px solid var(--ink);position:sticky;top:0;background:var(--bg);z-index:40}
+.nav__int{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.nav__int::-webkit-scrollbar{display:none}
+.nav__link{position:relative;white-space:nowrap;text-decoration:none;font-weight:700;
+  font-size:14px;padding:13px 14px;color:var(--ink-2)}
+.nav__link:hover,.nav__link.is-atual{color:var(--ink)}
+.nav__link.is-atual::after{content:"";position:absolute;left:14px;right:14px;bottom:0;height:3px;background:var(--marca)}
+.nav__link--resenha.is-atual::after{background:var(--resenha)}
+.nav__link--podcast.is-atual::after{background:var(--podcast)}
+.nav__link--opiniao.is-atual::after{background:var(--opiniao)}
+.nav__link--livros.is-atual::after{background:var(--livros)}
+
+.etiqueta{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.13em;
+  text-transform:uppercase;color:#fff;background:var(--geral);padding:4px 8px;border-radius:2px}
+.etiqueta--resenha{background:var(--resenha)}
+.etiqueta--podcast{background:var(--podcast)}
+.etiqueta--opiniao{background:var(--opiniao)}
+.etiqueta--livros{background:var(--livros)}
+
+.capa{display:grid;grid-template-columns:1.9fr 1fr;gap:34px;padding-block:34px 40px;border-bottom:1px solid var(--line)}
+.manchete a{text-decoration:none;display:block}
+.manchete__foto{aspect-ratio:16/9;overflow:hidden;background:var(--surface-2);border-radius:var(--raio)}
+.manchete__foto img{width:100%;height:100%;object-fit:cover}
+.manchete__texto{padding-top:16px}
+.manchete__titulo{font-size:clamp(30px,4.2vw,50px);margin-top:11px;letter-spacing:-.035em}
+.manchete a:hover .manchete__titulo{color:var(--marca)}
+.manchete__resumo{margin-top:13px;font-family:var(--serif);font-size:19px;line-height:1.5;color:var(--ink-2);max-width:60ch}
+.manchete time{display:block;margin-top:13px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.capa__lado{display:grid;gap:22px;align-content:start;border-left:1px solid var(--line);padding-left:34px}
+
+.cartao__link{text-decoration:none;display:block}
+.cartao__foto{aspect-ratio:16/10;overflow:hidden;background:var(--surface-2);border-radius:var(--raio)}
+.cartao__foto img{width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
+.cartao__link:hover .cartao__foto img{transform:scale(1.035)}
+.cartao__vazio{width:100%;height:100%;display:grid;place-items:center;background:linear-gradient(135deg,var(--surface-2),var(--surface))}
+.cartao__vazio span{font-size:40px;font-weight:900;color:var(--line-forte)}
+.cartao__texto{padding-top:12px}
+.cartao__titulo{font-size:18px;margin-top:9px;letter-spacing:-.022em}
+.cartao--g .cartao__titulo{font-size:21px}
+.cartao--p .cartao__titulo{font-size:16.5px}
+.cartao__link:hover .cartao__titulo{color:var(--marca)}
+.cartao__resumo{margin-top:8px;font-family:var(--serif);font-size:15.5px;line-height:1.5;color:var(--muted);
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.cartao__data{display:block;margin-top:10px;font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
+
+.secao{padding-block:38px}
+.secao + .secao{border-top:1px solid var(--line)}
+.secao__cab{display:flex;align-items:baseline;justify-content:space-between;gap:16px;
+  border-bottom:3px solid var(--ink);padding-bottom:9px;margin-bottom:8px}
+.secao__cab h2{font-size:22px}
+.secao--resenha .secao__cab{border-color:var(--resenha)}
+.secao--podcast .secao__cab{border-color:var(--podcast)}
+.secao--opiniao .secao__cab{border-color:var(--opiniao)}
+.secao--livros .secao__cab{border-color:var(--livros)}
+.secao__mais{font-size:13px;font-weight:700;color:var(--muted);text-decoration:none;white-space:nowrap}
+.secao__mais:hover{color:var(--marca)}
+.secao__desc{font-family:var(--serif);color:var(--muted);font-size:16px;margin-bottom:22px;max-width:70ch}
+.secao__cab + .grade{margin-top:24px}
+.grade{display:grid;gap:28px 24px}
+.grade--4{grid-template-columns:repeat(4,1fr)}
+.grade--3{grid-template-columns:repeat(3,1fr)}
+
+.secaocab{background:var(--surface);border-bottom:1px solid var(--line);padding-block:40px 34px}
+.secaocab h1{font-size:clamp(30px,4.6vw,44px);margin-top:12px}
+.secaocab p{margin-top:12px;font-family:var(--serif);font-size:18px;color:var(--ink-2);max-width:62ch}
+.secaocab__contagem{display:inline-block;margin-top:16px;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+
+.artigo__cab{padding-block:38px 22px;max-width:820px}
+.migalhas{font-size:12.5px;color:var(--muted);margin-bottom:18px;display:flex;gap:8px;align-items:center}
+.migalhas a{text-decoration:none;font-weight:600}
+.migalhas a:hover{color:var(--marca)}
+.artigo__titulo{font-size:clamp(31px,5vw,52px);margin-top:12px;letter-spacing:-.038em}
+.artigo__linhafina{margin-top:16px;font-family:var(--serif);font-size:20px;line-height:1.5;color:var(--ink-2)}
+.artigo__meta{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);
+  font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.artigo__foto{margin:0 auto 6px;max-width:920px}
+.artigo__foto img{width:100%;border-radius:var(--raio)}
+.artigo__corpo{width:100%;max-width:700px;margin-inline:auto;padding:26px 20px 12px;
+  font-family:var(--serif);font-size:19.5px;line-height:1.68;color:#1b222b}
+.artigo__corpo > p{margin-block:0 1.15em}
+.artigo__corpo h2,.artigo__corpo h3{font-family:var(--sans);margin:1.9em 0 .55em}
+.artigo__corpo h2{font-size:27px}
+.artigo__corpo h3{font-size:21px}
+.artigo__corpo a{color:var(--opiniao);text-underline-offset:3px}
+.artigo__corpo ul,.artigo__corpo ol{margin:0 0 1.15em;padding-left:1.3em}
+.artigo__corpo li{margin-bottom:.4em}
+.artigo__corpo img{border-radius:var(--raio);margin-block:1.5em}
+.artigo__corpo figure{margin:1.8em 0}
+.artigo__corpo figcaption{font-family:var(--sans);font-size:13.5px;color:var(--muted);margin-top:9px}
+.artigo__corpo blockquote{margin:1.7em 0;padding:4px 0 4px 22px;border-left:4px solid var(--marca);font-size:21px;line-height:1.45}
+.artigo__corpo blockquote p{margin:0}
+.artigo__corpo .wp-block-file{font-family:var(--sans);font-size:15px;background:var(--surface);
+  border:1px solid var(--line);border-radius:var(--raio);padding:16px;margin-block:1.5em}
+.artigo__corpo object{max-width:100%;border-radius:var(--raio)}
+.embed{margin-block:1.6em}
+.embed iframe{width:100%;border:0;border-radius:12px;display:block}
+.artigo__pe{max-width:700px;padding-block:10px 44px}
+
+.botao{display:inline-block;background:var(--ink);color:#fff;text-decoration:none;font-size:14px;font-weight:700;padding:12px 22px;border-radius:999px}
+.botao:hover{background:var(--marca)}
+.botao--vazado{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--line-forte)}
+.botao--vazado:hover{background:var(--surface)}
+.secao--relacionados{border-top:1px solid var(--line);background:var(--surface)}
+
+.arquivo{list-style:none;border-top:1px solid var(--line)}
+.arquivo li{border-bottom:1px solid var(--line)}
+.arquivo a{display:grid;grid-template-columns:118px 150px 1fr;gap:18px;align-items:center;padding:15px 4px;text-decoration:none}
+.arquivo a:hover{background:var(--surface)}
+.arquivo time{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.arquivo__titulo{font-weight:700;font-size:16.5px}
+.arquivo a:hover .arquivo__titulo{color:var(--marca)}
+.busca-grande{margin-bottom:14px}
+.busca-grande input{width:100%;font:inherit;font-size:20px;padding:16px 20px;border:1.5px solid var(--line-forte);border-radius:var(--raio);outline:0}
+.busca-grande input:focus{border-color:var(--ink)}
+.busca-status{font-size:14px;color:var(--muted);margin-bottom:18px;min-height:20px}
+
+.erro{padding-block:80px 100px;text-align:center;max-width:620px}
+.erro__codigo{font-size:96px;font-weight:900;color:var(--marca);letter-spacing:-.05em;line-height:1}
+.erro h1{font-size:34px;margin-top:8px}
+.erro p{margin-top:14px;font-family:var(--serif);font-size:18px;color:var(--muted)}
+.erro__acoes{margin-top:28px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+
+.rodape{margin-top:20px;background:var(--ink);color:#c7d0da;padding-block:46px 0}
+.rodape__int{display:grid;grid-template-columns:2fr 1fr 1fr;gap:36px}
+.rodape .marca__nome{color:#fff;font-size:30px}
+.rodape .marca__nome em{color:#ff5a72}
+.rodape__marca p{margin-top:12px;font-size:14.5px;max-width:34ch;line-height:1.55}
+.rodape__nav h2{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#8b97a6;margin-bottom:14px}
+.rodape__nav ul{list-style:none}
+.rodape__nav li{margin-bottom:9px}
+.rodape__nav a{text-decoration:none;font-size:15px;font-weight:600;color:#e3e9ef;display:flex;gap:8px;align-items:baseline}
+.rodape__nav a:hover{color:#fff}
+.rodape__nav a span{font-size:11.5px;color:#8b97a6;font-weight:700}
+.rodape__fim{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:40px;padding-block:20px;
+  border-top:1px solid #2a323d;font-size:13px;color:#8b97a6}
+.rodape__fim p{margin:0}
+
+@media (max-width:1000px){
+  .grade--4{grid-template-columns:repeat(2,1fr)}
+  .capa{grid-template-columns:1fr;gap:30px}
+  .capa__lado{border-left:0;padding-left:0;border-top:1px solid var(--line);padding-top:26px;grid-template-columns:1fr 1fr;gap:22px}
+}
+@media (max-width:860px){
+  .grade--3{grid-template-columns:repeat(2,1fr)}
+  .rodape__int{grid-template-columns:1fr 1fr}
+  .rodape__marca{grid-column:1/-1}
+  .masthead{flex-direction:column;align-items:flex-start;gap:16px}
+  .busca-topo,.busca-topo input{width:100%}
+}
+@media (max-width:620px){
+  body{font-size:16px}
+  .grade--4,.grade--3,.capa__lado{grid-template-columns:1fr}
+  .arquivo a{grid-template-columns:1fr;gap:7px;padding-block:14px}
+  .artigo__corpo{font-size:18.5px}
+  .faixa__selo{display:none}
+  .secao{padding-block:30px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
