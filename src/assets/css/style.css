@@ -4,7 +4,7 @@
   --line:#e4e8ed; --line-forte:#c9d1da;
   --bg:#fff; --surface:#f7f9fb; --surface-2:#eef2f6;
   --marca:#c8102e;
-  --resenha:#c8102e; --podcast:#6d28d9; --opiniao:#0b6bcb; --livros:#0f766e; --geral:#475569;
+  --resenha:#c8102e; --podcast:#6d28d9; --opiniao:#0b6bcb; --livros:#0f766e; --manifesto:#b45309; --geral:#475569;
   --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
   --wrap:1220px; --raio:4px;
@@ -51,6 +51,7 @@ ul,ol{margin:0;padding:0}
 .nav__link--podcast.is-atual::after{background:var(--podcast)}
 .nav__link--opiniao.is-atual::after{background:var(--opiniao)}
 .nav__link--livros.is-atual::after{background:var(--livros)}
+.nav__link--manifesto.is-atual::after{background:var(--manifesto)}
 
 .etiqueta{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.13em;
   text-transform:uppercase;color:#fff;background:var(--geral);padding:4px 8px;border-radius:2px}
@@ -58,6 +59,7 @@ ul,ol{margin:0;padding:0}
 .etiqueta--podcast{background:var(--podcast)}
 .etiqueta--opiniao{background:var(--opiniao)}
 .etiqueta--livros{background:var(--livros)}
+.etiqueta--manifesto{background:var(--manifesto)}
 
 .capa{display:grid;grid-template-columns:1.9fr 1fr;gap:34px;padding-block:34px 40px;border-bottom:1px solid var(--line)}
 .manchete a{text-decoration:none;display:block}
@@ -94,6 +96,7 @@ ul,ol{margin:0;padding:0}
 .secao--podcast .secao__cab{border-color:var(--podcast)}
 .secao--opiniao .secao__cab{border-color:var(--opiniao)}
 .secao--livros .secao__cab{border-color:var(--livros)}
+.secao--manifesto .secao__cab{border-color:var(--manifesto)}
 .secao__mais{font-size:13px;font-weight:700;color:var(--muted);text-decoration:none;white-space:nowrap}
 .secao__mais:hover{color:var(--marca)}
 .secao__desc{font-family:var(--serif);color:var(--muted);font-size:16px;margin-bottom:22px;max-width:70ch}
