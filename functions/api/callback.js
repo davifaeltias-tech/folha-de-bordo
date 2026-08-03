@@ -1,15 +1,39 @@
 // Volta do GitHub: troca o código por um token e devolve para o painel.
+//
+// O Decap CMS espera um aperto de mão em duas etapas:
+//   1. esta janela anuncia "authorizing:github" para quem a abriu;
+//   2. o painel responde, e só então passa a escutar o resultado;
+//   3. esta janela envia o token e se fecha.
+// Mandar o token direto, sem a etapa 1, faz o painel ignorar a mensagem
+// silenciosamente — o usuário clica em entrar e nada acontece.
 function pagina(mensagem, origem) {
   return `<!doctype html><meta charset="utf-8"><body><script>
 (function () {
-  function avisar() {
-    window.opener && window.opener.postMessage(${JSON.stringify(mensagem)}, ${JSON.stringify(origem)});
+  var origem = ${JSON.stringify(origem)};
+  var recado = ${JSON.stringify(mensagem)};
+  var respondido = false;
+
+  function enviar(m) {
+    if (window.opener) window.opener.postMessage(m, origem);
   }
-  window.addEventListener("message", avisar, { once: true });
-  avisar();
-  setTimeout(function () { window.close(); }, 800);
+
+  window.addEventListener("message", function (e) {
+    if (respondido || e.origin !== origem) return;
+    respondido = true;
+    clearInterval(timer);
+    enviar(recado);
+    setTimeout(function () { window.close(); }, 500);
+  });
+
+  // Repete o anúncio por alguns segundos, caso o painel ainda não
+  // tenha terminado de registrar o ouvinte quando esta janela abriu.
+  enviar("authorizing:github");
+  var timer = setInterval(function () {
+    if (!respondido) enviar("authorizing:github");
+  }, 300);
+  setTimeout(function () { clearInterval(timer); }, 8000);
 })();
-</script><p>Pode fechar esta janela.</p></body>`;
+</script><p>Autenticando… pode fechar esta janela se ela não sumir sozinha.</p></body>`;
 }
 
 export async function onRequest({ request, env }) {
