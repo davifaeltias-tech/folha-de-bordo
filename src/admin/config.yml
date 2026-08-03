@@ -34,6 +34,9 @@ collections:
       - label: "Artigos de Opinião"
         field: categoria
         pattern: "Artigos de Opinião"
+      - label: "Manifestos"
+        field: categoria
+        pattern: "Manifestos"
       - label: "Nossos Livros"
         field: categoria
         pattern: "Nossos Livros"
@@ -44,7 +47,7 @@ collections:
         label: "Editoria"
         widget: select
         default: "Resenhas Literárias"
-        options: ["Resenhas Literárias", "Podcast", "Artigos de Opinião", "Nossos Livros", "Geral"]
+        options: ["Resenhas Literárias", "Podcast", "Artigos de Opinião", "Manifestos", "Nossos Livros", "Geral"]
       - { name: slug, label: "Endereço (slug)", widget: string, hint: "Só letras minúsculas e hífens. Ex.: o-ladrao-de-raios" }
       - { name: resumo, label: "Resumo", widget: text, hint: "Duas linhas. Aparece na capa e no Google.", pattern: ['^.{40,300}$', 'Escreva entre 40 e 300 caracteres.'] }
       - { name: imagem, label: "Imagem de capa", widget: image, required: false, hint: "Formato deitado funciona melhor (16:9)." }
