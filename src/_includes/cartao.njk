@@ -1,12 +1,13 @@
+{# Post com imagem: cartão normal, foto em cima do texto.
+   Post sem imagem: cartão de texto, sem área de foto, com o título maior
+   e um filete da cor da editoria no topo. Assim a ausência de capa vira
+   uma variação de ritmo na página, e não um buraco. #}
 {% macro cartao(p, tam="m") %}
+{% if p.data.imagem %}
 <article class="cartao cartao--{{ tam }}">
   <a class="cartao__link" href="{{ p.url }}">
     <div class="cartao__foto">
-      {% if p.data.imagem %}
       <img src="{{ p.data.imagem }}" alt="" loading="lazy" decoding="async">
-      {% else %}
-      <div class="cartao__vazio" aria-hidden="true"><span>{{ p.data.title | truncate(1, true, "") }}</span></div>
-      {% endif %}
     </div>
     <div class="cartao__texto">
       <span class="etiqueta etiqueta--{{ p.data.categoria | catCor }}">{{ p.data.categoria }}</span>
@@ -16,6 +17,18 @@
     </div>
   </a>
 </article>
+{% else %}
+<article class="cartao cartao--{{ tam }} cartao--texto is-{{ p.data.categoria | catCor }}">
+  <a class="cartao__link" href="{{ p.url }}">
+    <div class="cartao__texto">
+      <span class="etiqueta etiqueta--{{ p.data.categoria | catCor }}">{{ p.data.categoria }}</span>
+      <h3 class="cartao__titulo">{{ p.data.title }}</h3>
+      <p class="cartao__resumo">{{ p.data.resumo }}</p>
+      <time class="cartao__data" datetime="{{ p.date | iso }}">{{ p.date | dataCurta }}</time>
+    </div>
+  </a>
+</article>
+{% endif %}
 {% endmacro %}
 
 {% macro linha(p) %}

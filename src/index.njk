@@ -3,18 +3,21 @@ layout: base.njk
 eleventyExcludeFromCollections: true
 ---
 {% from "cartao.njk" import cartao, linha %}
-{% set todos = collections.posts %}
-{% set destaque = todos[0] %}
-{% set secundarios = todos | skip(1) | limit(2) %}
-{% set ultimas = todos | skip(3) | limit(8) %}
+{# a capa vem misturada entre as editorias, não em ordem puramente cronológica #}
+{% set capa = collections.capa %}
+{% set destaque = capa[0] %}
+{% set secundarios = capa | skip(1) | limit(2) %}
+{% set ultimas = capa | skip(3) | limit(8) %}
 
 <section class="capa wrap">
   <div class="capa__principal">
-    <article class="manchete">
+    <article class="manchete {% if not destaque.data.imagem %}manchete--texto{% endif %}">
       <a href="{{ destaque.url }}">
+        {% if destaque.data.imagem %}
         <div class="manchete__foto">
-          {% if destaque.data.imagem %}<img src="{{ destaque.data.imagem }}" alt="" fetchpriority="high" decoding="async">{% endif %}
+          <img src="{{ destaque.data.imagem }}" alt="" fetchpriority="high" decoding="async">
         </div>
+        {% endif %}
         <div class="manchete__texto">
           <span class="etiqueta etiqueta--{{ destaque.data.categoria | catCor }}">{{ destaque.data.categoria }}</span>
           <h1 class="manchete__titulo">{{ destaque.data.title }}</h1>
@@ -44,7 +47,7 @@ eleventyExcludeFromCollections: true
   </div>
   <p class="secao__desc">{{ e.desc }}</p>
   <div class="grade grade--3">
-    {%- for p in e.posts | limit(3) %}{{ cartao(p, "g") }}{% endfor %}
+    {%- for p in e.posts | foraDe(capa) | limit(3) %}{{ cartao(p, "g") }}{% endfor %}
   </div>
 </section>
 {%- endfor %}

@@ -33,6 +33,52 @@ module.exports = function (eleventyConfig) {
       .filter((e) => e.posts.length > 0);
   });
 
+  // A capa não é uma lista cronológica pura: se fosse, uma editoria muito
+  // ativa tomaria o jornal inteiro. A manchete é sempre o post mais recente
+  // do site; a partir dela, faz-se um rodízio entre as editorias, pegando de
+  // cada uma a publicação mais recente ainda não usada. Assim a capa mistura
+  // resenha, podcast, opinião e manifesto sem deixar de privilegiar o novo.
+  eleventyConfig.addCollection("capa", (c) => {
+    const posts = c.getFilteredByGlob("src/posts/*.md").sort((a, b) => b.date - a.date);
+    if (!posts.length) return [];
+
+    const porEditoria = {};
+    for (const p of posts) {
+      const cat = p.data.categoria || "Geral";
+      (porEditoria[cat] = porEditoria[cat] || []).push(p);
+    }
+
+    const manchete = posts[0];
+    const usados = new Set([manchete.url]);
+    const saida = [manchete];
+
+    // começa o rodízio pela editoria seguinte à da manchete
+    let ordem = Object.keys(CATS).filter((n) => porEditoria[n]);
+    const i = ordem.indexOf(manchete.data.categoria);
+    if (i > -1) ordem = ordem.slice(i + 1).concat(ordem.slice(0, i + 1));
+
+    let achou = true;
+    while (achou && saida.length < 11) {
+      achou = false;
+      for (const cat of ordem) {
+        if (saida.length >= 11) break;
+        const proximo = porEditoria[cat].find((p) => !usados.has(p.url));
+        if (proximo) {
+          saida.push(proximo);
+          usados.add(proximo.url);
+          achou = true;
+        }
+      }
+    }
+    return saida;
+  });
+
+  // remove de uma lista tudo que já apareceu em outra (evita repetir card)
+  eleventyConfig.addFilter("foraDe", (arr, outros) => {
+    const urls = new Set((outros || []).map((p) => p.url));
+    return (arr || []).filter((p) => !urls.has(p.url));
+  });
+
   eleventyConfig.addFilter("catSlug", (n) => (CATS[n] || CATS["Geral"]).slug);
   eleventyConfig.addFilter("catCor", (n) => (CATS[n] || CATS["Geral"]).cor);
   eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
