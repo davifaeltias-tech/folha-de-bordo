@@ -1,0 +1,132 @@
+---
+layout: base.njk
+permalink: /moderacao/
+title: Moderação de comentários
+resumo: Fila de comentários aguardando aprovação.
+eleventyExcludeFromCollections: true
+---
+<header class="secaocab">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--geral">Bastidores</span>
+    <h1>Moderação de comentários</h1>
+    <p>Nada aparece no site antes de você aprovar aqui.</p>
+  </div>
+</header>
+
+<section class="wrap secao" id="moderacao">
+  <div id="mod-entrar">
+    <button class="botao" id="mod-login">Entrar com o GitHub</button>
+    <p class="coment__nota">Só contas autorizadas conseguem ver a fila.</p>
+  </div>
+
+  <div id="mod-painel" hidden>
+    <p class="coment__contagem" id="mod-resumo">Carregando…</p>
+    <ol class="coment__lista" id="mod-lista"></ol>
+  </div>
+</section>
+
+<script>
+(function () {
+  var token = null;
+  var entrar = document.getElementById("mod-entrar");
+  var painel = document.getElementById("mod-painel");
+  var resumo = document.getElementById("mod-resumo");
+  var lista  = document.getElementById("mod-lista");
+
+  function dataBR(iso) {
+    try {
+      return new Intl.DateTimeFormat("pt-BR", {
+        day: "2-digit", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit"
+      }).format(new Date(iso));
+    } catch (e) { return iso; }
+  }
+
+  // Mesmo aperto de mão do painel de publicação: abre a janela do GitHub,
+  // espera o token e guarda só na memória desta aba.
+  document.getElementById("mod-login").addEventListener("click", function () {
+    var janela = window.open("/api/auth", "entrar", "width=680,height=760");
+    window.addEventListener("message", function ouvir(e) {
+      if (e.origin !== window.location.origin) return;
+      var m = String(e.data || "");
+      if (m.indexOf("authorizing:github") === 0) { e.source.postMessage(m, e.origin); return; }
+      if (m.indexOf("authorization:github:success:") === 0) {
+        window.removeEventListener("message", ouvir);
+        try { token = JSON.parse(m.split("authorization:github:success:")[1]).token; } catch (x) {}
+        if (janela) janela.close();
+        if (token) { entrar.hidden = true; painel.hidden = false; carregar(); }
+      }
+      if (m.indexOf("authorization:github:error:") === 0) {
+        window.removeEventListener("message", ouvir);
+        resumo.textContent = "Não foi possível entrar.";
+      }
+    });
+  });
+
+  function pedir(caminho, opcoes) {
+    opcoes = opcoes || {};
+    opcoes.headers = Object.assign({ Authorization: "Bearer " + token }, opcoes.headers || {});
+    return fetch(caminho, opcoes);
+  }
+
+  function agir(id, acao) {
+    return pedir("/api/moderacao", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id: id, acao: acao })
+    }).then(carregar);
+  }
+
+  function carregar() {
+    pedir("/api/moderacao").then(function (r) {
+      if (r.status === 401) { resumo.textContent = "Sua conta não está autorizada a moderar."; return null; }
+      return r.json();
+    }).then(function (j) {
+      if (!j) return;
+      lista.innerHTML = "";
+      var n = (j.pendentes || []).length;
+      resumo.textContent = n
+        ? n + (n === 1 ? " comentário aguardando" : " comentários aguardando") + " · " + j.aprovados + " já publicados"
+        : "Nenhum comentário na fila. " + j.aprovados + " já publicados.";
+
+      (j.pendentes || []).forEach(function (c) {
+        var li = document.createElement("li");
+        li.className = "coment__item mod__item";
+
+        var cab = document.createElement("div");
+        cab.className = "coment__cab";
+        var nome = document.createElement("span");
+        nome.className = "coment__nome";
+        nome.textContent = c.nome + (c.email ? " · " + c.email : " · sem e-mail");
+        var quando = document.createElement("time");
+        quando.className = "coment__data";
+        quando.textContent = dataBR(c.criado_em);
+        cab.appendChild(nome); cab.appendChild(quando);
+
+        var onde = document.createElement("a");
+        onde.className = "mod__onde";
+        onde.href = c.post;
+        onde.textContent = c.post;
+
+        var texto = document.createElement("p");
+        texto.className = "coment__texto";
+        texto.textContent = c.texto;
+
+        var acoes = document.createElement("div");
+        acoes.className = "mod__acoes";
+        var ok = document.createElement("button");
+        ok.className = "botao"; ok.textContent = "Aprovar";
+        ok.onclick = function () { agir(c.id, "aprovar"); };
+        var nao = document.createElement("button");
+        nao.className = "botao botao--vazado"; nao.textContent = "Excluir";
+        nao.onclick = function () {
+          if (confirm("Excluir este comentário? Não dá para desfazer.")) agir(c.id, "excluir");
+        };
+        acoes.appendChild(ok); acoes.appendChild(nao);
+
+        li.appendChild(cab); li.appendChild(onde); li.appendChild(texto); li.appendChild(acoes);
+        lista.appendChild(li);
+      });
+    });
+  }
+})();
+</script>

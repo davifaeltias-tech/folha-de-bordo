@@ -36,6 +36,44 @@ layout: base.njk
   </footer>
 </article>
 
+<section class="wrap coment" id="comentarios" data-post="{{ page.url }}">
+  <div class="secao__cab"><h2>Comentários</h2></div>
+  <p class="coment__contagem">Carregando…</p>
+  <ol class="coment__lista"></ol>
+
+  <form class="coment__form" novalidate>
+    <h3 class="coment__formtitulo">Deixe seu comentário</h3>
+    <div class="coment__linha">
+      <label>
+        <span>Nome</span>
+        <input type="text" name="nome" maxlength="60" required autocomplete="name">
+      </label>
+      <label>
+        <span>E-mail</span>
+        <input type="email" name="email" maxlength="120" autocomplete="email">
+      </label>
+    </div>
+    <label class="coment__campo">
+      <span>Comentário</span>
+      <textarea name="texto" rows="4" maxlength="2000" required></textarea>
+    </label>
+
+    {# campo-isca: invisível para gente, atraente para robô #}
+    <div class="coment__isca" aria-hidden="true">
+      <label>Deixe este campo em branco<input type="text" name="site" tabindex="-1" autocomplete="off"></label>
+    </div>
+
+    <button type="submit" class="botao">Enviar comentário</button>
+    <p class="coment__aviso" role="status"></p>
+    <p class="coment__nota">
+      Os comentários passam por leitura do professor antes de aparecer. O e-mail é
+      pedido apenas para que ele possa responder se precisar — não é publicado, não
+      é usado para envio de mensagens e não é compartilhado com ninguém.
+    </p>
+  </form>
+</section>
+<script src="/assets/js/comentarios.js" defer></script>
+
 {% if mesmaCat.length %}
 <section class="wrap secao secao--relacionados">
   <div class="secao__cab"><h2>Leia também</h2></div>

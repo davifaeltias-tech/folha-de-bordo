@@ -8,3 +8,13 @@ pages_build_output_dir = "_site"
 # O par dele, GITHUB_CLIENT_SECRET, fica como Secret no painel da Cloudflare.
 GITHUB_CLIENT_ID = "Ov23ligjYFNmAF6pmxpf"
 NODE_VERSION = "22"
+
+# Contas do GitHub que podem aprovar comentarios em /moderacao.
+# Para dar acesso a outro professor, acrescente o usuario separado por virgula.
+MODERADORES = "davifaeltias-tech"
+
+# Banco dos comentarios. O codigo acessa por env.DB.
+[[d1_databases]]
+binding = "DB"
+database_name = "folha-de-bordo-comentarios"
+database_id = "45ccb11e-569f-4f7a-a78a-91f902072547"
