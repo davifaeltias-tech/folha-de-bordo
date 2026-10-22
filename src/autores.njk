@@ -1,0 +1,27 @@
+---
+layout: base.njk
+permalink: /autores/
+title: Quem escreve
+resumo: Todos os alunos que assinam textos na Folha de Bordo, em ordem alfabética.
+---
+<header class="secaocab">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--geral">Quem escreve</span>
+    <h1>Os autores da Folha de Bordo</h1>
+    <p>{{ collections.autores.length }} alunos assinam os textos deste jornal. Clique num nome para ver tudo que ele escreveu.</p>
+  </div>
+</header>
+
+<section class="wrap secao">
+  <ul class="autores">
+    {%- for a in collections.autores %}
+    <li>
+      <a href="/autor/{{ a.slug }}/">
+        <span class="autores__nome">{{ a.nome }}</span>
+        {%- if a.turmas.length %}<span class="autores__turma">{{ a.turmas | join(", ") }}</span>{% endif %}
+        <span class="autores__conta">{{ a.posts.length }}</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>

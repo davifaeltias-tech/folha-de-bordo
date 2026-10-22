@@ -1,0 +1,29 @@
+---
+layout: base.njk
+pagination:
+  data: collections.autores
+  size: 1
+  alias: aluno
+permalink: "/autor/{{ aluno.slug }}/"
+eleventyComputed:
+  title: "{{ aluno.nome }}"
+  resumo: "Tudo que {{ aluno.nome }} escreveu na Folha de Bordo."
+---
+{% from "cartao.njk" import cartao %}
+<header class="secaocab">
+  <div class="wrap">
+    <span class="etiqueta etiqueta--geral">Quem escreve</span>
+    <h1>{{ aluno.nome }}</h1>
+    <p>
+      {{ aluno.posts.length }}
+      {%- if aluno.posts.length == 1 %} publicação{% else %} publicações{% endif %}
+      na Folha de Bordo{% if aluno.turmas.length %} · {{ aluno.turmas | join(", ") }}{% endif %}.
+    </p>
+  </div>
+</header>
+
+<section class="wrap secao">
+  <div class="grade grade--3">
+    {%- for p in aluno.posts %}{{ cartao(p, "g") }}{% endfor %}
+  </div>
+</section>
