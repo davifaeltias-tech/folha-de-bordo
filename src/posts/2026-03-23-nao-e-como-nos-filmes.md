@@ -4,6 +4,7 @@ date: 2026-03-23 09:00:00
 slug: nao-e-como-nos-filmes
 categoria: "Resenhas Literárias"
 resumo: "Liz não sabe o verdadeiro motivo pelo qual Wes se afastou. Luiza resenha o romance de Lynn Painter e explica por que relacionamentos reais não são contos de fadas."
+autor: "Luiza Germoglio"
 capa_pendente: "/assets/img/capa-nao-e-como-nos-filmes.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-nao-e-como-nos-filmes.jpg"
 <p>Ao longo da narrativa, os dois precisam lidar com as escolhas do passado, amadurecer e compreender seus sentimentos. A convivência traz momentos únicos e emocionantes, fazendo Liz perceber que Wes sempre esteve ali por ela. O livro mostra que relacionamentos reais não são contos de fadas; há desentendimentos, mas o amor verdadeiro é um sentimento que persiste.</p>
 
 <p>Este é, certamente, um dos melhores livros que já li. A identidade visual em roxo e amarelo traz uma sensação de conforto, e a história é envolvente, unindo romance e humor de forma que prende o leitor do início ao fim. Por ser uma leitura leve e fácil de entender, é uma ótima recomendação para quem gosta de romances jovens e histórias sobre segundas chances.</p>
-
-<p class="assinatura"><em>Por Luiza Germoglio</em></p>

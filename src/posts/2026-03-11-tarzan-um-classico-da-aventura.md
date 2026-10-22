@@ -4,6 +4,7 @@ date: 2026-03-11 14:00:00
 slug: tarzan-um-classico-da-aventura
 categoria: "Resenhas Literárias"
 resumo: "Abandonado numa floresta africana e criado por gorilas. Pace resenha o clássico de Edgar Rice Burroughs e diz o que mudaria na capa da edição brasileira."
+autor: "Pace Monson"
 capa_pendente: "/assets/img/capa-tarzan.jpg"
 ---
 
@@ -16,5 +17,3 @@ capa_pendente: "/assets/img/capa-tarzan.jpg"
 <p>Achei o livro muito bem escrito e apreciei o estilo do autor. Para demonstrar essa escrita envolvente, selecionei um trecho: <em>“As andanças do bando muitas vezes os levaram para perto daquela velha e silenciosa cabana junto ao pequeno porto protegido pela baía. Para Tarzan isso sempre apresentava um mistério e um prazer infindáveis”</em>.</p>
 
 <p>Recomendo esta leitura para adolescentes e adultos, pois acredito que é um público que aproveitará bastante a trama. Além disso, é uma indicação indispensável para quem ama histórias de aventura!</p>
-
-<p class="assinatura"><em>Por Pace Monson</em></p>

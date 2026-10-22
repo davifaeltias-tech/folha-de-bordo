@@ -4,6 +4,7 @@ date: 2026-03-13 09:00:00
 slug: anne-frank-a-voz-da-memoria
 categoria: "Resenhas Literárias"
 resumo: "A vida de Anne Frank contada em 80 páginas para o público jovem. Olívia resenha a biografia de Elisa Puricelli Guerra e como um pequeno diário virou símbolo."
+autor: "Olívia da Costa Pereira Pires"
 capa_pendente: "/assets/img/capa-anne-frank-a-voz-da-memoria.jpg"
 ---
 
@@ -12,5 +13,3 @@ capa_pendente: "/assets/img/capa-anne-frank-a-voz-da-memoria.jpg"
 <p>A narrativa acompanha Anne durante a Segunda Guerra Mundial. Por ser judia e sofrer diversas proibições, ela e sua família se mudam para um esconderijo secreto junto a uma amiga do trabalho de seu pai. No relato, Anne expressa sentimentos de solidão, o vazio do isolamento e o desejo profundo de ter uma vida normal. Um trecho fascinante ocorre logo no primeiro capítulo (página 6), onde ela afirma que, mesmo em tempos difíceis, sempre há um sorriso para enfrentá-los.</p>
 
 <p>O livro consegue misturar fatos históricos com reflexões sobre esperança e humanidade. As ilustrações e a linguagem clara são pontos positivos que auxiliam na compreensão do contexto do Holocausto, mostrando como um pequeno diário tornou-se um símbolo tão importante. É uma leitura maravilhosa que nos ensina sobre empatia e a importância de preservar o passado. Recomendo fortemente para crianças, adolescentes e estudantes que desejam aprender mais sobre a Segunda Guerra Mundial e a vida de Anne Frank.</p>
-
-<p class="assinatura"><em>Por Olívia da Costa Pereira Pires</em></p>

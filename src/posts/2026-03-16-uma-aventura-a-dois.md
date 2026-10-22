@@ -4,6 +4,7 @@ date: 2026-03-16 14:00:00
 slug: uma-aventura-a-dois
 categoria: "Resenhas Literárias"
 resumo: "Mabel sonha com um intercâmbio em Nova York e com furar a bolha de filha perfeita. Helena recomenda o livro de Thaís Oliveira com brigadeiro quentinho ao lado."
+autor: "Helena Inácio de Paula"
 capa_pendente: "/assets/img/capa-uma-aventura-a-dois.jpg"
 ---
 
@@ -18,5 +19,3 @@ capa_pendente: "/assets/img/capa-uma-aventura-a-dois.jpg"
 <p>Tenho certeza de que você vai querer garantir o seu exemplar — não só porque a história é ótima, mas também pelos detalhes físicos e pela capa que se destaca. Ana Bizuti e Jonatas Belan fizeram um excelente trabalho com as ilustrações e com a organização do resumo na contracapa, usando cores vibrantes! Espero que tenham gostado desta indicação. Boa leitura!</p>
 
 <blockquote><p>“A vida é cheia de surpresas, você nunca sabe o que vai acontecer.” <em>(Citação inspiradora presente na obra)</em></p></blockquote>
-
-<p class="assinatura"><em>Por Helena Inácio de Paula</em></p>

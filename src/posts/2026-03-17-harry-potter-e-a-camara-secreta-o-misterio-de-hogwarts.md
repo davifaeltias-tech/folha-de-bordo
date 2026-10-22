@@ -4,6 +4,7 @@ date: 2026-03-17 09:00:00
 slug: harry-potter-e-a-camara-secreta-o-misterio-de-hogwarts
 categoria: "Resenhas Literárias"
 resumo: "Uma força misteriosa petrifica alunos e a lendária Câmara Secreta é reaberta. Luís Henrique acompanha o segundo ano de Harry em Hogwarts, capítulo por capítulo."
+autor: "Luís Henrique"
 capa_pendente: "/assets/img/capa-harry-potter-camara-secreta.jpg"
 ---
 
@@ -16,5 +17,3 @@ capa_pendente: "/assets/img/capa-harry-potter-camara-secreta.jpg"
 <p>Eu achei o livro muito bom, pois J.K. Rowling mostra a amizade e a perseverança de uma forma leve, através de muito mistério. Um dos trechos que mais me marcou foi: “Não, Harry. Mesmo no mundo bruxo, ouvir vozes não é um bom sinal”. Essa frase é importante porque, quando Harry escuta vozes, ele pensa que isso é algo normal por estar em um ambiente mágico, mas Hermione lhe mostra que, na verdade, é um sinal de perigo.</p>
 
 <p>Recomendo a leitura de <em>Harry Potter e a Câmara Secreta</em> principalmente para leitores entre 9 e 14 anos, embora pessoas de todas as idades possam gostar muito da história. Acredito que todos podem ter uma avaliação positiva sobre o livro, pois a autora utiliza uma linguagem fácil, envolvente e muito criativa.</p>
-
-<p class="assinatura"><em>Por Luís Henrique</em></p>

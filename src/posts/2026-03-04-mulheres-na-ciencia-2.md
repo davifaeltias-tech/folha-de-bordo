@@ -4,6 +4,10 @@ date: 2026-03-04 23:32:27
 slug: mulheres-na-ciencia-2
 categoria: "Manifestos"
 resumo: "Alunos do Year 6A convidam todos a se manifestar contra a ausência das mulheres na ciência, citando Tatiana Coelho e a descoberta da polilaminina como exemplo do que se perde com a exclusão."
+autor:
+  - "Rafael Cavalcanti"
+  - "Lucca Probst"
+  - "Jorge Luiz Cabral"
 imagem: "/assets/img/pexels-photo-8392574.jpeg"
 ---
 

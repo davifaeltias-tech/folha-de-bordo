@@ -4,6 +4,7 @@ date: 2026-03-16 09:00:00
 slug: extraordinario
 categoria: "Resenhas Literárias"
 resumo: "August nasceu com uma deformidade facial e aos 10 anos entra numa escola regular pela primeira vez. Lucas resenha o romance de R.J. Palacio e o que ele diz sobre igualdade."
+autor: "Lucas Vital Guimarães"
 capa_pendente: "/assets/img/capa-extraordinario.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-extraordinario.jpg"
 <p>O livro vai além do tema do bullying; ele mostra as dificuldades enfrentadas por pessoas com deficiência física e reforça que elas desejam ser tratadas com igualdade, e não como seres incapazes ou "especiais" demais.</p>
 
 <p>Recomendo esta leitura para todos, especialmente para crianças entre 9 e 12 anos. Também indico o livro para pais e mães, pois a história serve de alerta sobre o excesso de proteção. Um momento marcante é a discussão entre Auggie e sua mãe, onde ele pede mais liberdade para se divertir e ser ele mesmo, sem ser tratado de forma diferente.</p>
-
-<p class="assinatura"><em>Por Lucas Vital Guimarães</em></p>

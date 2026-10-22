@@ -4,6 +4,12 @@ date: 2026-03-04 19:47:38
 slug: manifesto-da-ciencia-feminina
 categoria: "Manifestos"
 resumo: "Cinco alunas do Y6B lembram que, nos Nobel de ciências, foram 635 homens e apenas 24 mulheres — e convidam o leitor a acreditar no potencial delas."
+autor:
+  - "Maria Júlia Gameleira"
+  - "Rafaela Duques"
+  - "Maya Buriti"
+  - "Maria Luiza Barros"
+  - "Aurora Viana"
 imagem: "/assets/img/pexels-photo-8540798.jpeg"
 ---
 

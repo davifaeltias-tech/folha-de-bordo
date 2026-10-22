@@ -4,12 +4,9 @@ date: 2025-10-15 16:05:51
 slug: harry-potter-e-a-pedra-filosofal-um-livro-de-magia-e-diversao
 categoria: "Resenhas Literárias"
 resumo: "Por Iran Neto Harry Potter e a Pedra Filosofal , publicado em 1998 pela editora Bloomsbury e escrito pela autora J. K. Rowling, é um livro fictício cujo gênero mistura aventura, mistério, ação, fantasia e…"
+autor: "Iran Neto"
 imagem: "/assets/img/sorcerer27s_stone_cover.webp"
----
-
-<p><strong>Por Iran Neto</strong></p>
-
-<p><em>Harry Potter e a Pedra Filosofal</em>, publicado em 1998 pela editora Bloomsbury e escrito pela autora J. K. Rowling, é um livro fictício cujo gênero mistura aventura, mistério, ação, fantasia e drama.</p>
+---<p><em>Harry Potter e a Pedra Filosofal</em>, publicado em 1998 pela editora Bloomsbury e escrito pela autora J. K. Rowling, é um livro fictício cujo gênero mistura aventura, mistério, ação, fantasia e drama.</p>
 
 <p>A história fala sobre Harry Potter, um garoto órfão que vive infeliz com seus tios. Um dia, ele recebe uma carta de Hogwarts, uma escola famosa por ensinar magia. Seus tios tentam impedir que ele leia a carta, mas Hagrid, o guarda-caça de Hogwarts, aparece para levá-lo até a escola.</p>
 

@@ -4,6 +4,7 @@ date: 2026-03-11 09:00:00
 slug: a-genialidade-por-tras-de-a-marca-de-atena
 categoria: "Resenhas Literárias"
 resumo: "Annabeth Chase precisa selar a paz entre os semideuses. Elisa resenha o terceiro volume de Os Heróis do Olimpo, de Rick Riordan, e a viagem de Roma até a Grécia."
+autor: "Elisa Rathke"
 capa_pendente: "/assets/img/capa-a-marca-de-atena.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-a-marca-de-atena.jpg"
 <p>Com uma capa vermelha impactante que ostenta uma enorme cabeça de coruja, o livro já nos lança diretamente no centro da ação. O autor aborda temas profundos como sacrifício, amor, amizade e o peso das decisões. Como a própria deusa Afrodite menciona na página 195: <em>"Você é inteligente, como sua mãe. Compreenda, porém, que seus irmãos [...] estão à procura dela há séculos. Ninguém conseguiu recuperar a estátua"</em>. Este trecho exemplifica a escrita detalhada de Riordan, ideal para quem busca expandir seu repertório.</p>
 
 <p>Recomendo fortemente <em>A Marca de Atena</em> para adolescentes que amam mitologia, aventura e romance. Além de ser uma leitura empolgante, é uma excelente forma de aprender sobre a cultura, a arquitetura e a religião das Antigas Grécia e Roma. Se você busca uma história fantástica, corra para a livraria e comece sua jornada pelo Olimpo agora mesmo!</p>
-
-<p class="assinatura"><em>Por Elisa Rathke</em></p>

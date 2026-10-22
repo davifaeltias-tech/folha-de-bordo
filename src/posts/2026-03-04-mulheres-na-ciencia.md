@@ -4,6 +4,10 @@ date: 2026-03-04 23:13:57
 slug: mulheres-na-ciencia
 categoria: "Manifestos"
 resumo: "Meninas do Year 6A tomam o caso de Marie Curie como prova de que as cientistas ainda não recebem o reconhecimento que merecem, e pedem que a valorização comece em casa e na escola."
+autor:
+  - "Vivian Mendes"
+  - "Laíse Guedes"
+  - "Lavínia Acioli"
 imagem: "/assets/img/pexels-photo-9243745.jpeg"
 ---
 

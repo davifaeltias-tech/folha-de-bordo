@@ -4,12 +4,9 @@ date: 2025-10-02 06:35:31
 slug: quem-sera-o-assassino
 categoria: "Resenhas Literárias"
 resumo: "Por Florence Pereira O livro Assassinato no Expresso do Oriente é do gênero mistério e ficção policial. Foi escrito por Agatha Christie, conhecida como a “Rainha do Crime” por suas 66 obras de romance…"
+autor: "Florence Pereira"
 imagem: "/assets/img/712izyhhil._uf10001000_ql80_.jpg"
----
-
-<p>Por Florence Pereira</p>
-
-<p>O livro <em>Assassinato no Expresso do Oriente</em> é do gênero mistério e ficção policial. Foi escrito por Agatha Christie, conhecida como a “Rainha do Crime” por suas 66 obras de romance policial. Publicado em 1º de janeiro de 1934 nos Estados Unidos, o livro tem 196 páginas em capa dura pela editora HarperCollins Brasil. A obra também já foi adaptada para o cinema.</p>
+---<p>O livro <em>Assassinato no Expresso do Oriente</em> é do gênero mistério e ficção policial. Foi escrito por Agatha Christie, conhecida como a “Rainha do Crime” por suas 66 obras de romance policial. Publicado em 1º de janeiro de 1934 nos Estados Unidos, o livro tem 196 páginas em capa dura pela editora HarperCollins Brasil. A obra também já foi adaptada para o cinema.</p>
 
 <p>A história acompanha o famoso detetive Hercule Poirot, que precisa voltar a Londres e, para isso, embarca no Expresso Oriente. Durante a viagem, acontece um assassinato no trem, e Poirot precisa descobrir quem é o criminoso antes que ele volte a atacar. Será que o detetive conseguirá resolver esse mistério?</p>
 

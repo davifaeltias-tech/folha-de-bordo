@@ -4,6 +4,9 @@ date: 2026-03-04 22:55:48
 slug: direitos-das-mulheres-na-ciencia
 categoria: "Manifestos"
 resumo: "Alunos do Y6B fazem três pedidos diretos à sociedade: respeito às mulheres em todas as profissões, incentivo à carreira científica e o fim do descrédito."
+autor:
+  - "Davi Chaves"
+  - "Samuel Galdino"
 imagem: "/assets/img/pexels-photo-3735730.jpeg"
 ---
 

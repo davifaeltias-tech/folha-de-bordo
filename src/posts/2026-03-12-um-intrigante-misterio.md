@@ -4,6 +4,7 @@ date: 2026-03-12 14:00:00
 slug: um-intrigante-misterio
 categoria: "Resenhas Literárias"
 resumo: "O primeiro encontro entre Watson e Sherlock Holmes, em 174 páginas de puro mistério. Isabela analisa a estreia do detetive criado por Arthur Conan Doyle em 1887."
+autor: "Isabela Kumamoto"
 capa_pendente: "/assets/img/capa-sherlock-holmes-estudo-em-vermelho.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-sherlock-holmes-estudo-em-vermelho.jpg"
 <p>Watson anima-se para conhecê-lo. Holmes é apresentado como um homem muito inteligente, estudioso e interessado pela ciência, que costuma ler bastante, realizar experimentos e ser extremamente observador. Porém, Watson também é avisado de que ele possui peculiaridades e hábitos um tanto estranhos: “Mas, vez ou outra, uma reação o dominava, e por dias a fio ele ficava deitado sobre o sofá na sala de estar, quase sem pronunciar uma palavra ou mover um músculo, de manhã até a noite”.</p>
 
 <p>Apesar de ser uma leitura bem construída e com boa cronologia, a segunda parte do livro pode dar a impressão de que o autor decidiu criar um complemento para explicar melhor os acontecimentos passados. Mesmo assim, a narrativa continua interessante e ajuda o leitor a compreender toda a trama. Recomendo este livro para leitores que apreciam mistério e suspense e que gostam de tentar descobrir, ao longo da leitura, quem é o verdadeiro culpado.</p>
-
-<p class="assinatura"><em>Por Isabela Kumamoto</em></p>

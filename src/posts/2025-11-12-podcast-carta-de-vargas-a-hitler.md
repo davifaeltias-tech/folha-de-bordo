@@ -4,10 +4,12 @@ date: 2025-11-12 17:43:37
 slug: podcast-carta-de-vargas-a-hitler
 categoria: "Podcast"
 resumo: "Por Mariah, Carolina Almeida e Miguel Saraiva Este episódio revela um documento histórico fascinante e polêmico. Colocamos em foco a carta de Getúlio Vargas (Brasil) a Adolf Hitler (Alemanha), datada de…"
+autor:
+  - "Mariah"
+  - "Carolina Almeida"
+  - "Miguel Saraiva"
 imagem: "/assets/img/envelopes-carta-papel-kraft-com-10-unidades-37cd4693.webp"
 ---
-
-<p>Por Mariah, Carolina Almeida e Miguel Saraiva</p>
 
 <p>Este episódio revela um documento histórico fascinante e polêmico.</p>
 

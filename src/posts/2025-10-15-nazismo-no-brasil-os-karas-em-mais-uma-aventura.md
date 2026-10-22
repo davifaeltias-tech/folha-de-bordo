@@ -4,12 +4,9 @@ date: 2025-10-15 16:23:31
 slug: nazismo-no-brasil-os-karas-em-mais-uma-aventura
 categoria: "Resenhas Literárias"
 resumo: "Por Serena Pires Ayoub A obra Anjo da Morte , de Pedro Bandeira, é simplesmente emocionante! O livro foi escrito em 1988 e lançado pela Editora Moderna. Esse é mais um título da famosa série Os Karas . Com 192…"
+autor: "Serena Pires Ayoub"
 imagem: "/assets/img/81xjlmoeyul.jpg"
----
-
-<p><strong>Por Serena Pires Ayoub</strong></p>
-
-<p>A obra <em>Anjo da Morte</em>, de Pedro Bandeira, é simplesmente emocionante! O livro foi escrito em 1988 e lançado pela Editora Moderna. Esse é mais um título da famosa série <em>Os Karas</em>. Com 192 páginas, a trama investiga a morte de um ator minutos antes de ele entrar em cena. Um grupo de adolescentes se reúne para resolver o caso e acaba descobrindo coisas inacreditáveis. O livro prende o leitor e traz temas muito interessantes, que definitivamente vão te surpreender!</p>
+---<p>A obra <em>Anjo da Morte</em>, de Pedro Bandeira, é simplesmente emocionante! O livro foi escrito em 1988 e lançado pela Editora Moderna. Esse é mais um título da famosa série <em>Os Karas</em>. Com 192 páginas, a trama investiga a morte de um ator minutos antes de ele entrar em cena. Um grupo de adolescentes se reúne para resolver o caso e acaba descobrindo coisas inacreditáveis. O livro prende o leitor e traz temas muito interessantes, que definitivamente vão te surpreender!</p>
 
 <p>O clássico de Pedro Bandeira conta a história do misterioso assassinato de Solomon Friedman, ocorrido instantes antes de sua entrada em cena na magnífica peça <em>Rei Lear</em>, de William Shakespeare. O ator, querido por todos e sobrevivente do campo de concentração de Sobibor durante a Segunda Guerra Mundial, é encontrado morto com um tiro e um estranho sorriso no rosto.</p>
 

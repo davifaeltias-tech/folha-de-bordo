@@ -4,12 +4,9 @@ date: 2025-10-02 06:40:33
 slug: um-incrivel-resumo-de-blitzkrieg-a-guerra-relampago
 categoria: "Resenhas Literárias"
 resumo: "Por Henrique Ribeiro Mafra O livro Blitzkrieg – A Guerra Relâmpago foi escrito por Richard Overy e traduzido pela Folha de São Paulo . Publicado em 2014, é uma obra de ação e guerra que conta, em apenas 64…"
+autor: "Henrique Ribeiro Mafra"
 imagem: "/assets/img/d_nq_np_675658-mlb43878903511_102020-o.webp"
----
-
-<p>Por Henrique Ribeiro Mafra</p>
-
-<p>O livro <em>Blitzkrieg – A Guerra Relâmpago</em> foi escrito por Richard Overy e traduzido pela <em>Folha de São Paulo</em>. Publicado em 2014, é uma obra de ação e guerra que conta, em apenas 64 páginas, grandes batalhas e comandantes da Segunda Guerra Mundial entre 1939 e 1941. Além disso, o livro traz ilustrações em preto e branco que ajudam a compreender melhor os acontecimentos.</p>
+---<p>O livro <em>Blitzkrieg – A Guerra Relâmpago</em> foi escrito por Richard Overy e traduzido pela <em>Folha de São Paulo</em>. Publicado em 2014, é uma obra de ação e guerra que conta, em apenas 64 páginas, grandes batalhas e comandantes da Segunda Guerra Mundial entre 1939 e 1941. Além disso, o livro traz ilustrações em preto e branco que ajudam a compreender melhor os acontecimentos.</p>
 
 <p><em>Blitzkrieg</em> apresenta episódios marcantes, como os milagres em batalhas como Dunkirk, operações grandiosas como a Operação Leão Marinho e muito mais. Também relata a história da RAF (Força Aérea Real britânica) e das forças expedicionárias da Grã-Bretanha. Um exemplo curioso é o caso do couraçado Graf Spee, navio de guerra que afundou na Batalha do Rio da Prata.</p>
 

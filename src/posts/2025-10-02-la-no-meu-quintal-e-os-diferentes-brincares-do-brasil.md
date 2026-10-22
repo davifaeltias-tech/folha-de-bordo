@@ -4,12 +4,9 @@ date: 2025-10-02 06:37:37
 slug: la-no-meu-quintal-e-os-diferentes-brincares-do-brasil
 categoria: "Resenhas Literárias"
 resumo: "Por Gabriela Figueirêdo A obra literária Lá no meu quintal: o brincar de meninas e meninos de Norte a Sul , publicada em 2019 pela editora Peirópolis, relata a viagem que a autora Gabriela Romeu fez para…"
+autor: "Gabriela Figueirêdo"
 imagem: "/assets/img/la-no-meu-quintal-capa-provisoria.jpg"
----
-
-<p>Por Gabriela Figueirêdo</p>
-
-<p>A obra literária <em>Lá no meu quintal: o brincar de meninas e meninos de Norte a Sul</em>, publicada em 2019 pela editora Peirópolis, relata a viagem que a autora Gabriela Romeu fez para visitar famílias que vivem em aldeias indígenas, comunidades ribeirinhas, terras quilombolas e outras áreas afastadas da zona urbana. No livro, ela apresenta diversas brincadeiras e cantigas de Norte a Sul do país, que nos fazem relembrar a infância e os velhos tempos de diversão. A obra tem 128 páginas e faz parte do <em>Projeto Infância</em>, que conta a vida de crianças em diferentes lugares do Brasil. Além disso, o livro possui QR Codes com vídeos da viagem.</p>
+---<p>A obra literária <em>Lá no meu quintal: o brincar de meninas e meninos de Norte a Sul</em>, publicada em 2019 pela editora Peirópolis, relata a viagem que a autora Gabriela Romeu fez para visitar famílias que vivem em aldeias indígenas, comunidades ribeirinhas, terras quilombolas e outras áreas afastadas da zona urbana. No livro, ela apresenta diversas brincadeiras e cantigas de Norte a Sul do país, que nos fazem relembrar a infância e os velhos tempos de diversão. A obra tem 128 páginas e faz parte do <em>Projeto Infância</em>, que conta a vida de crianças em diferentes lugares do Brasil. Além disso, o livro possui QR Codes com vídeos da viagem.</p>
 
 <p>A narrativa começa pela região Norte, no Médio Xingu, Pará, na cidade de Altamira, onde a autora conheceu o menino Arawari Asurini, do povo Asurini do Xingu. Depois, seguiu para o Nordeste, no Cariri cearense, cidade de Potengi, onde conheceu Laísa Vieira, uma menina da comunidade Carcará. Em seguida, foi para o Centro-Oeste, no Pantanal, em Corumbá (Mato Grosso do Sul), onde encontrou os irmãos Wellington e Joel, que ajudam o pai a cuidar dos animais. No Sudeste, passou pelo Vale do Jequitinhonha, em Turmalina (Minas Gerais), e conheceu Milena e sua irmã. Por fim, no Sul, esteve em Rodeio Bonito, no norte do Rio Grande do Sul, onde conheceu Valdecir e sua irmãzinha, Ana. Em cada região, Gabriela Romeu aprendeu algo novo: uma brincadeira, uma cantiga, uma forma diferente de se divertir. Mas, para descobrir o que exatamente ela aprendeu, é preciso ler o livro.</p>
 

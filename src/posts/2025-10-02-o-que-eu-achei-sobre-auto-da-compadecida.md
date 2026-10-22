@@ -4,12 +4,9 @@ date: 2025-10-02 06:30:31
 slug: o-que-eu-achei-sobre-auto-da-compadecida
 categoria: "Resenhas Literárias"
 resumo: "Por Carlos Henrique Teixeira Em 1955, Ariano Suassuna criou a obra Auto da Compadecida . O livro é uma comédia do século XX e ganhou muito destaque porque o autor misturou humor com a época do cangaço,…"
+autor: "Carlos Henrique Teixeira"
 imagem: "/assets/img/13auto_da_compadecida.webp"
----
-
-<p>Por Carlos Henrique Teixeira</p>
-
-<p>Em 1955, Ariano Suassuna criou a obra <em>Auto da Compadecida</em>. O livro é uma comédia do século XX e ganhou muito destaque porque o autor misturou humor com a época do cangaço, trazendo dois personagens marcantes: João Grilo e Chicó. O público adorou.</p>
+---<p>Em 1955, Ariano Suassuna criou a obra <em>Auto da Compadecida</em>. O livro é uma comédia do século XX e ganhou muito destaque porque o autor misturou humor com a época do cangaço, trazendo dois personagens marcantes: João Grilo e Chicó. O público adorou.</p>
 
 <p>Com 208 páginas, a peça faz uma crítica ao comportamento das pessoas de antigamente, mostrando que, no sertão, muitos eram desonestos e maldosos apenas para levar vantagem. A história se passa em Taperoá, onde João Grilo e Chicó trabalham para o padeiro, que os manda cumprir várias tarefas.</p>
 

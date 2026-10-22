@@ -4,6 +4,7 @@ date: 2026-03-09 09:00:00
 slug: a-cabine-telefonica-do-senhor-hirota
 categoria: "Resenhas Literárias"
 resumo: "Depois do tsunami, Makio encontra uma cabine telefônica onde sente que ainda pode falar com a família. Tyrus resenha a história real narrada por Heather Smith."
+autor: "Tyrus Farmer"
 capa_pendente: "/assets/img/capa-a-cabine-telefonica-do-senhor-hirota.jpg"
 ---
 
@@ -12,5 +13,3 @@ capa_pendente: "/assets/img/capa-a-cabine-telefonica-do-senhor-hirota.jpg"
 <p>Escrito por Heather Smith e publicado em 2021 pela editora Melhoramentos, o livro conta com ilustrações marcantes de Rachel Wada e prefácio de Alexandre Coimbra. Em suas 40 páginas, conhecemos o menino Makio e o senhor Hirota, o criador da cabine telefônica. Essa cabine surge como uma grande surpresa para o menino, pois, ao entrar nela, ele sente que pode se comunicar com seus familiares. O senhor Hirota e Makio dividem as tristezas e as alegrias de, por alguns momentos, terem a sensação de ouvir quem partiu.</p>
 
 <p>Ao ler esta obra emocionante, conseguimos nos imaginar no Japão, e o texto nos faz refletir sobre amor e compaixão. Senti-me muito bem ao conhecer a jornada de Makio. Recomendo esta história para todos os leitores, pois ela nos ajuda a entender por que ficamos tristes quando perdemos alguém que amamos e como podemos aprender a conviver com a saudade e com o nosso passado.</p>
-
-<p class="assinatura"><em>Por Tyrus Farmer</em></p>

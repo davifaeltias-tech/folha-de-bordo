@@ -4,6 +4,7 @@ date: 2026-03-09 14:00:00
 slug: sorte-grande
 categoria: "Resenhas Literárias"
 resumo: "Alice dá a Teddy um bilhete de loteria que muda a vida dos dois. Laura escreve sobre a friendzone dolorosa do romance de Jennifer E. Smith e sobre amor com maturidade."
+autor: "Laura P. Araújo"
 capa_pendente: "/assets/img/capa-sorte-grande.jpg"
 ---
 
@@ -16,5 +17,3 @@ capa_pendente: "/assets/img/capa-sorte-grande.jpg"
 <p>Apesar dos dilemas, o livro traz uma mensagem importante sobre a necessidade de maturidade no amor. Afinal, amor sem maturidade leva à loucura. Recomendo fortemente esta leitura para garotas entre 12 e 16 anos, especialmente se estiverem apaixonadas ou gostarem de romances leves. Embora eu tenha críticas pontuais, o livro é bom e transmite uma mensagem ainda mais forte por trás da história.</p>
 
 <p><strong><em>Friendzone:</strong> termo usado quando você gosta de uma pessoa romanticamente, mas ela quer ser apenas sua amiga.</em></p>
-
-<p class="assinatura"><em>Por Laura P. Araújo</em></p>

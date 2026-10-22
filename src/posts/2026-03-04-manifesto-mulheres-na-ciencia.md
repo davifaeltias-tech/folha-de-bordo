@@ -4,6 +4,11 @@ date: 2026-03-04 22:41:10
 slug: manifesto-mulheres-na-ciencia
 categoria: "Manifestos"
 resumo: "De Marie Curie a Katherine Johnson, passando pela brasileira Tatiana Coelho e a polilaminina: um manifesto sobre o quanto a ciência teria perdido sem elas."
+autor:
+  - "Bernardo Vrech"
+  - "Davi Schulze"
+  - "Jurandir Gorski"
+  - "Maria Clara Noleto"
 imagem: "/assets/img/pexels-photo-8851400.jpeg"
 ---
 

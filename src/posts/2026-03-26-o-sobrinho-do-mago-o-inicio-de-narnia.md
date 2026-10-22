@@ -4,6 +4,7 @@ date: 2026-03-26 09:00:00
 slug: o-sobrinho-do-mago-o-inicio-de-narnia
 categoria: "Resenhas Literárias"
 resumo: "Dois anéis, um sótão e o começo de tudo. Ian resenha o volume de C.S. Lewis que conta como o mundo de Nárnia surgiu, numa Londres onde ainda se andava a cavalo."
+autor: "Ian Cabral"
 capa_pendente: "/assets/img/capa-o-sobrinho-do-mago.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-o-sobrinho-do-mago.jpg"
 <p>Esta foi uma das minhas primeiras leituras de maior fôlego e é incrível como as ilustrações dão vida às palavras detalhadas de Lewis. O autor consegue destacar a evolução da maturidade dos protagonistas de forma muito natural, como crianças aprendendo com a vida. Outro ponto forte é a expressividade da fala; o texto é tão bem escrito que conseguimos imaginar a voz de Polly embargada ou chorosa conforme a situação. Embora o vocabulário seja simples e acessível a qualquer idade, senti que a divisão dos capítulos às vezes interrompe o fluxo da leitura, o que pode dificultar a retomada do fôlego narrativo.</p>
 
 <p>Concluo minha resenha com uma ótima avaliação. Recomendo fortemente este livro para crianças e adultos que apreciam fantasia, embora acredite que alguns adolescentes em transição possam achar o tema menos atrativo. Vale a pena conferir o surgimento do mundo de Nárnia!</p>
-
-<p class="assinatura"><em>Por Ian Cabral</em></p>

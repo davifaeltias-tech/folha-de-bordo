@@ -4,6 +4,7 @@ date: 2026-03-13 14:00:00
 slug: um-livro-quase-perfeito
 categoria: "Resenhas Literárias"
 resumo: "Um empresário envenenado, uma família inteira sob suspeita e Miss Marple em cena. Nicole resenha Agatha Christie e o único detalhe que impede o livro de ser perfeito."
+autor: "Nicole Vaz"
 capa_pendente: "/assets/img/capa-cem-gramas-de-centeio.jpg"
 ---
 
@@ -18,5 +19,3 @@ capa_pendente: "/assets/img/capa-cem-gramas-de-centeio.jpg"
 <p>Como Margaret Maron relata na contracapa, Agatha Christie é uma mestra na arte da dissimulação, sempre nos levando por pistas falsas enquanto o óbvio está diante de nossos olhos. O único ponto que impede a perfeição da obra é a economia da autora nas descrições dos personagens; muitas vezes, eles são introduzidos sem características físicas detalhadas, o que pode dificultar a conexão nos capítulos iniciais. No entanto, ao longo da leitura, passamos a imaginar cada um à nossa maneira.</p>
 
 <p>Recomendo fortemente este livro, especialmente para leitores jovens, devido à adaptação, mas adultos também se sentirão desafiados por esse final surpreendente que supera todas as expectativas.</p>
-
-<p class="assinatura"><em>Por Nicole Vaz</em></p>

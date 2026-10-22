@@ -4,6 +4,7 @@ date: 2026-03-10 09:00:00
 slug: a-genialidade-por-tras-da-escrita-de-jk-rowling-em-harry-potter-e-a-or
 categoria: "Resenhas Literárias"
 resumo: "O retorno de Voldemort e a organização secreta fundada por Dumbledore. João Guilherme analisa como Rowling trata perdas e amizade nas mais de 700 páginas do quinto volume."
+autor: "João Guilherme Ferreira Quirino"
 capa_pendente: "/assets/img/capa-harry-potter-ordem-da-fenix.jpg"
 ---
 
@@ -16,5 +17,3 @@ capa_pendente: "/assets/img/capa-harry-potter-ordem-da-fenix.jpg"
 <blockquote><p>"Voldemort não vai até a casa das pessoas e bate na porta, Harry. Ele prepara arapucas, enfeitiça e chantageia. Tem muita prática de agir em segredo. Em todo caso, reunir seguidores é apenas uma das coisas em que está interessado. Ele também tem outros planos, planos que pode pôr em ação discretamente e, por ora, tem se concentrado neles."</p></blockquote>
 
 <p>Considero o livro excelente pois, através da escrita aprofundada de Rowling, ele transmite lições e mensagens para a vida, sem deixar de lado a aventura e a diversão. Recomendo esta leitura para adolescentes e jovens adultos, pois a autora aborda assuntos sérios, como a perda de entes queridos, de uma forma extremamente atraente e sensível.</p>
-
-<p class="assinatura"><em>Por João Guilherme Ferreira Quirino</em></p>

@@ -4,6 +4,7 @@ date: 2026-03-24 09:00:00
 slug: o-menino-que-sobreviveu
 categoria: "Resenhas Literárias"
 resumo: "Aos 8 anos ignorou o livro para assistir aos filmes; um ano depois voltou atrás. Danilo conta como as palavras de Rowling criaram imagens que o cinema não alcançou."
+autor: "Danilo Gomes"
 capa_pendente: "/assets/img/capa-harry-potter-pedra-filosofal.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-harry-potter-pedra-filosofal.jpg"
 <p>Em minha opinião, o ponto mais forte da obra é a coragem de Harry. Mesmo sendo apenas um garoto, ele demonstra muita vontade de enfrentar perigos para proteger seus amigos. Outro ponto de que gosto muito é que o livro não é apenas sobre mágica, mas sobre as nossas escolhas. Como o diretor Dumbledore diz em um trecho marcante: "São as nossas escolhas, Harry, que revelam quem realmente somos". Essa conexão entre o mundo real e o fantástico torna a leitura envolvente e reflexiva. Por outro lado, um ponto que pode exigir costume é a grande quantidade de informações; às vezes, é um desafio acompanhar tantos personagens e cenários novos.</p>
 
 <p>Recomendo este livro para qualquer pessoa que goste de aventura e queira uma leitura viva e rica em detalhes. É interessante comparar a vida dos "trouxas" (não-bruxos) com o mundo mágico, observando como temas como amizade e lealdade são universais e não mudam, independentemente do mundo em que estamos.</p>
-
-<p class="assinatura"><em>Por Danilo Gomes</em></p>

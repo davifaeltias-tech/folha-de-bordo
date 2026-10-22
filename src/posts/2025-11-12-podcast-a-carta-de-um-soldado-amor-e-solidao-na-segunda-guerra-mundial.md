@@ -4,10 +4,11 @@ date: 2025-11-12 15:07:55
 slug: podcast-a-carta-de-um-soldado-amor-e-solidao-na-segunda-guerra-mundial
 categoria: "Podcast"
 resumo: "Por Maria Paula e Isabela Garcia Neste episódio, as anfitriãs Isabela e Maria Paula analisam uma carta real e comovente escrita por um soldado para sua companheira durante a Segunda Guerra Mundial. O…"
+autor:
+  - "Maria Paula"
+  - "Isabela Garcia"
 imagem: "/assets/img/papel_de_carta_vintage_grungy-r93e2457e0760421d9fd74778e7b574d5_jp663q_644.jpg"
 ---
-
-<p>Por Maria Paula e Isabela Garcia</p>
 
 <p>Neste episódio, as anfitriãs Isabela e Maria Paula analisam uma carta real e comovente escrita por um soldado para sua companheira durante a Segunda Guerra Mundial.</p>
 

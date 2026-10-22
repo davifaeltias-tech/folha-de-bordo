@@ -4,6 +4,7 @@ date: 2026-03-12 09:00:00
 slug: a-musica-das-nuvens
 categoria: "Resenhas Literárias"
 resumo: "A vida de Alissa muda quando a família precisa recomeçar do zero. Isadora conta o que a emocionou no romance juvenil de Arlene Diniz, e o que sentiu falta no final."
+autor: "Isadora Inácio de Paula"
 capa_pendente: "/assets/img/capa-a-musica-das-nuvens.jpg"
 ---
 
@@ -16,5 +17,3 @@ capa_pendente: "/assets/img/capa-a-musica-das-nuvens.jpg"
 <p>O que eu achei da obra? Faço essa pergunta toda vez que termino uma leitura. Sinceramente, amei! O livro traz emoções que conseguimos sentir durante as páginas. A autora quis mostrar o "antes e depois" da vida de Alissa: como ela era antes de se firmar em sua religião e como ficou depois. Isso faz o leitor pensar: “Será que eu estou presente o suficiente na minha vida cristã?”. Meu único ponto negativo é que, no final do livro, achei que faltaram detalhes sobre o futuro da protagonista. Mas, de resto, o livro é perfeito!</p>
 
 <p>Como você pode ver, a obra tem muitos pontos positivos. Por isso, se você é uma adolescente que ama um bom romance, eu recomendo este livro. Talvez você o ame tanto quanto eu!</p>
-
-<p class="assinatura"><em>Por Isadora Inácio de Paula</em></p>

@@ -4,10 +4,12 @@ date: 2025-11-12 15:48:29
 slug: a-carta-de-gandhi-para-hitler
 categoria: "Podcast"
 resumo: "Por Luca Cavalcante, Heitor Veríssimo e Lucas Duques Este episódio do podcast \"Central das Cartas\" aborda a Segunda Guerra Mundial e as ideologias do Eixo (liderado por Hitler e o nazismo). O foco principal é…"
+autor:
+  - "Luca Cavalcante"
+  - "Heitor Veríssimo"
+  - "Lucas Duques"
 imagem: "/assets/img/carta-gandhi-para-hitler.png"
 ---
-
-<p>Por Luca Cavalcante, Heitor Veríssimo e Lucas Duques</p>
 
 <p>Este episódio do podcast "Central das Cartas" aborda a Segunda Guerra Mundial e as ideologias do Eixo (liderado por Hitler e o nazismo).</p>
 

@@ -4,6 +4,7 @@ date: 2026-03-19 09:00:00
 slug: julgando-as-paginas-o-menino-do-pijama-listrado
 categoria: "Resenhas Literárias"
 resumo: "Considerado perfeito por muitos leitores, mas será mesmo? Bernardo analisa o livro de John Boyne com olhar crítico, aponta o ritmo arrastado e dá nota 6,5."
+autor: "Bernardo Ranieri"
 capa_pendente: "/assets/img/capa-o-menino-do-pijama-listrado.jpg"
 ---
 
@@ -14,5 +15,3 @@ capa_pendente: "/assets/img/capa-o-menino-do-pijama-listrado.jpg"
 <p>A obra é repleta de drama e traz situações intrigantes, o que é um ponto positivo. O texto é muito bem escrito, com cenas detalhadas e uma caracterização de personagens que desperta empatia ou rancor no leitor. No entanto, senti que o tema é um pouco pesado para o público infantojuvenil.</p>
 
 <p>Em minha análise, achei o desenvolvimento um tanto "arrastado", com capítulos que podem parecer repetitivos. O desfecho ocorre de forma inesperada, sem grandes avisos, resultando em um final bem impactante. Recomendo este livro para quem gosta de dramas históricos intensos e histórias cheias de emoção. Eu daria uma nota <strong>6,5</strong> para a obra. Agora, leia você mesmo e tire sua própria conclusão!</p>
-
-<p class="assinatura"><em>Por Bernardo Ranieri</em></p>

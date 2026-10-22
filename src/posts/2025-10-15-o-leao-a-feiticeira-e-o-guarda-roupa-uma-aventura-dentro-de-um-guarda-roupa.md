@@ -4,12 +4,9 @@ date: 2025-10-15 16:09:36
 slug: o-leao-a-feiticeira-e-o-guarda-roupa-uma-aventura-dentro-de-um-guarda-roupa
 categoria: "Resenhas Literárias"
 resumo: "Por Lara Belarmino O livro As Crônicas de Nárnia , publicado entre 1950 e 1956, é uma obra literária muito interessante. Muitos não sabem do que o livro trata ou por que C. S. Lewis escolheu o nome Crônicas ,…"
+autor: "Lara Belarmino"
 imagem: "/assets/img/7158aw38zxl._uf10001000_ql80_.jpg"
----
-
-<p><strong>Por Lara Belarmino</strong></p>
-
-<p>O livro <em>As Crônicas de Nárnia</em>, publicado entre 1950 e 1956, é uma obra literária muito interessante. Muitos não sabem do que o livro trata ou por que C. S. Lewis escolheu o nome <em>Crônicas</em>, mas, neste texto, vou explicar um pouco do que descobri, o que achei e por que gostei tanto. Cada página que você lê faz querer continuar lendo mais e mais. O formato do livro é ótimo, as expressões são bem construídas e o enredo é maravilhoso! A história não se alonga desnecessariamente e deixa bem claro que é uma ficção. Vamos nos aprofundar em Nárnia?</p>
+---<p>O livro <em>As Crônicas de Nárnia</em>, publicado entre 1950 e 1956, é uma obra literária muito interessante. Muitos não sabem do que o livro trata ou por que C. S. Lewis escolheu o nome <em>Crônicas</em>, mas, neste texto, vou explicar um pouco do que descobri, o que achei e por que gostei tanto. Cada página que você lê faz querer continuar lendo mais e mais. O formato do livro é ótimo, as expressões são bem construídas e o enredo é maravilhoso! A história não se alonga desnecessariamente e deixa bem claro que é uma ficção. Vamos nos aprofundar em Nárnia?</p>
 
 <p>Quatro irmãos — Pedro, Susana, Edmundo e Lúcia — são enviados para a casa de um professor durante a guerra. Lá, Lúcia descobre um guarda-roupa que a leva para Nárnia, um mundo mágico. Ela conhece um fauno que, a princípio, tenta entregá-la à Feiticeira Branca, mas depois a ajuda a voltar. Edmundo também entra em Nárnia e encontra a Feiticeira, que o engana com promessas e doces em troca de trair seus irmãos.</p>
 

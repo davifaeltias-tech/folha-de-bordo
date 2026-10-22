@@ -4,10 +4,13 @@ date: 2025-11-12 15:13:55
 slug: a-carta-de-wallace-para-darwin
 categoria: "Podcast"
 resumo: "Por Rafael Rodrigues, Arthur Luna, Pedro Cavalcante e José Lopes O episódio analisa a carta revolucionária que Alfred Wallace enviou a Charles Darwin em 1858, detalhando a sua descoberta da Teoria da Seleção…"
+autor:
+  - "Rafael Rodrigues"
+  - "Arthur Luna"
+  - "Pedro Cavalcante"
+  - "José Lopes"
 imagem: "/assets/img/si_444_wallace3.webp"
 ---
-
-<p>Por Rafael Rodrigues, Arthur Luna, Pedro Cavalcante e José Lopes</p>
 
 <p>O episódio analisa a carta revolucionária que Alfred Wallace enviou a Charles Darwin em 1858, detalhando a sua descoberta da Teoria da Seleção Natural.</p>
 

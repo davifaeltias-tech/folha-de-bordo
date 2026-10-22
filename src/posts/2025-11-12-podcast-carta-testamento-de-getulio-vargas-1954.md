@@ -4,10 +4,12 @@ date: 2025-11-12 17:58:01
 slug: podcast-carta-testamento-de-getulio-vargas-1954
 categoria: "Podcast"
 resumo: "Por Vicente Aranha, Lucca Scóz e Vinicius Martins Em mais um episódio, o Central das Cartas analisa a Carta Testamento de Getúlio Vargas, um documento histórico escrito pouco antes do seu suicídio em 24 de…"
+autor:
+  - "Vicente Aranha"
+  - "Lucca Scóz"
+  - "Vinicius Martins"
 imagem: "/assets/img/hq720.jpg"
 ---
-
-<p>Por Vicente Aranha, Lucca Scóz e Vinicius Martins</p>
 
 <p>Em mais um episódio, o Central das Cartas analisa a Carta Testamento de Getúlio Vargas, um documento histórico escrito pouco antes do seu suicídio em 24 de agosto de 1954.</p>
 
