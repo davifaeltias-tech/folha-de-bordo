@@ -15,7 +15,17 @@ layout: base.njk
     </nav>
     <span class="etiqueta etiqueta--{{ categoria | catCor }}">{{ categoria }}</span>
     <h1 class="artigo__titulo">{{ title }}</h1>
-    <p class="artigo__linhafina">{{ resumo }}</p>
+    {# Sem linha fina: o resumo continua no campo do post, alimentando os
+       cartões da capa, o RSS e o Google, mas não aparece acima do texto —
+       o primeiro parágrafo do aluno já faz esse trabalho. #}
+    {% if autor %}
+    <p class="artigo__assinatura">Por
+      {%- for a in autor | comoLista %}
+      <a href="/autor/{{ a | slugAutor }}/"><strong>{{ a }}</strong></a>{% if not loop.last %}{% if loop.revindex0 == 1 %} e {% else %}, {% endif %}{% endif %}
+      {%- endfor %}
+      {%- if turma %} <span class="artigo__turma">{{ turma }}</span>{% endif %}
+    </p>
+    {% endif %}
     <div class="artigo__meta">
       <time datetime="{{ page.date | iso }}">{{ page.date | dataBR }}</time>
     </div>
