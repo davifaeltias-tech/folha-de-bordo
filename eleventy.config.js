@@ -73,6 +73,47 @@ module.exports = function (eleventyConfig) {
     return saida;
   });
 
+
+  // ---- autores -------------------------------------------------------
+  // Cada aluno vira uma página com tudo que assinou, para o professor (e os
+  // pais) acharem o conjunto do trabalho sem caçar post por post.
+  const semAcento = (t) =>
+    t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+  const slugAutor = (nome) =>
+    semAcento(String(nome || ""))
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, "")
+      .trim()
+      .replace(/[\s-]+/g, "-");
+
+  const comoLista = (v) => (Array.isArray(v) ? v : v ? [v] : []);
+
+  eleventyConfig.addFilter("slugAutor", slugAutor);
+  eleventyConfig.addFilter("comoLista", comoLista);
+
+  eleventyConfig.addCollection("autores", (c) => {
+    const posts = c.getFilteredByGlob("src/posts/*.md").sort((a, b) => b.date - a.date);
+    const mapa = new Map();
+
+    for (const p of posts) {
+      for (const nome of comoLista(p.data.autor)) {
+        const chave = slugAutor(nome);
+        if (!chave) continue;
+        if (!mapa.has(chave)) {
+          mapa.set(chave, { nome, slug: chave, turmas: new Set(), posts: [] });
+        }
+        const a = mapa.get(chave);
+        a.posts.push(p);
+        if (p.data.turma) a.turmas.add(p.data.turma);
+      }
+    }
+
+    return [...mapa.values()]
+      .map((a) => ({ ...a, turmas: [...a.turmas] }))
+      .sort((x, y) => x.nome.localeCompare(y.nome, "pt-BR"));
+  });
+
   // remove de uma lista tudo que já apareceu em outra (evita repetir card)
   eleventyConfig.addFilter("foraDe", (arr, outros) => {
     const urls = new Set((outros || []).map((p) => p.url));
