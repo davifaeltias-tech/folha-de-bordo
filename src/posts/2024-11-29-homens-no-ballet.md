@@ -4,12 +4,9 @@ date: 2024-11-29 15:03:01
 slug: homens-no-ballet
 categoria: "Artigos de Opinião"
 resumo: "Por Beatriz Toscano No filme Billy Elliot, o protagonista se apaixona pelo ballet, mas enfrenta muito preconceito e falta de apoio familiar para continuar praticando. Infelizmente, essa realidade ainda é…"
+autor: "Beatriz Toscano"
 imagem: "/assets/img/img_0762-1.jpg"
 ---
-
-<p class="p1"></p>
-
-<p class="p1">Por Beatriz Toscano</p>
 
 <p class="p1">No filme Billy Elliot, o protagonista se apaixona pelo ballet, mas enfrenta muito preconceito e falta de apoio familiar para continuar praticando. Infelizmente, essa realidade ainda é vivida por muitos homens que escolhem a dança como paixão e profissão. Esse pensamento intolerante precisa ser transformado.</p>
 

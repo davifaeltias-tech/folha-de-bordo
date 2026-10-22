@@ -4,10 +4,9 @@ date: 2025-07-24 09:38:54
 slug: o-conto-da-ilha-desconhecida-um-livro-que-me-decepcionou
 categoria: "Geral"
 resumo: "Por Isabela Garcia O Conto da Ilha Desconhecida é um livro escrito por José Saramago e ilustrado por Arthur Luiz Piza. Possui um total de 63 páginas e foi publicado em 1998 pela editora Companhia das Letras. O…"
+autor: "Isabela Garcia"
 imagem: "/assets/img/616opc38ozl._uf10001000_ql80_.jpg"
 ---
-
-<p>Por Isabela Garcia</p>
 
 <p><em>O Conto da Ilha Desconhecida</em> é um livro escrito por José Saramago e ilustrado por Arthur Luiz Piza. Possui um total de 63 páginas e foi publicado em 1998 pela editora Companhia das Letras.</p>
 

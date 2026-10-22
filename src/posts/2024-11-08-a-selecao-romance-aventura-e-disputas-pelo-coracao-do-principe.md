@@ -4,9 +4,9 @@ date: 2024-11-08 07:20:23
 slug: a-selecao-romance-aventura-e-disputas-pelo-coracao-do-principe
 categoria: "Geral"
 resumo: "Por Isabela Spina, Year 7A - Maple Bear/PB Resenha de A Seleção Escrito por Kiera Cass, A Seleção é o primeiro de seis livros que combinam romance e elementos futuristas. A história se passa no país fictício…"
+autor: "Isabela Spina"
+turma: "Year 7A"
 ---
-
-<p>Por Isabela Spina, Year 7A - Maple Bear/PB</p>
 
 <p><strong>Resenha de </strong><strong><em>A Seleção</em></strong></p>
 

@@ -4,12 +4,10 @@ date: 2024-10-30 17:26:43
 slug: o-principe-cruel
 categoria: "Resenhas Literárias"
 resumo: "Por Ana Isabel, Year 7B - Maple Bear/JP O livro que escolhi foi O Príncipe Cruel , da famosa autora de romances Holly Black, publicado pela editora Galera em 2018. A obra é uma fantasia distópica que se passa…"
+autor: "Ana Isabel"
+turma: "Year 7B"
 imagem: "/assets/img/o-principe-cruel-8aed.2018.webp"
----
-
-<p>Por Ana Isabel, Year 7B - Maple Bear/JP</p>
-
-<p>O livro que escolhi foi <em>O Príncipe Cruel</em>, da famosa autora de romances Holly Black, publicado pela editora Galera em 2018. A obra é uma fantasia distópica que se passa em Elfhame, o Reino das Fadas. A história acompanha uma garota chamada Jude, que, junto com suas irmãs Taryn e Vivi, é raptada por Madoc, general do reino das fadas. Madoc afirma ter tido um caso com a mãe de Jude e ser pai de sua irmã mais velha, Vivi. Após assistir ao assassinato de seus pais por Madoc, Jude não tem para onde ir e acaba seguindo com ele e suas irmãs para o reino das fadas.</p>
+---<p>O livro que escolhi foi <em>O Príncipe Cruel</em>, da famosa autora de romances Holly Black, publicado pela editora Galera em 2018. A obra é uma fantasia distópica que se passa em Elfhame, o Reino das Fadas. A história acompanha uma garota chamada Jude, que, junto com suas irmãs Taryn e Vivi, é raptada por Madoc, general do reino das fadas. Madoc afirma ter tido um caso com a mãe de Jude e ser pai de sua irmã mais velha, Vivi. Após assistir ao assassinato de seus pais por Madoc, Jude não tem para onde ir e acaba seguindo com ele e suas irmãs para o reino das fadas.</p>
 
 <p>Dez anos depois, Jude daria tudo para ser como eles – belos e imortais – e quer pertencer àquele lugar, mesmo sendo mortal. Mas, no reino das fadas, os humanos não são bem-vindos.</p>
 

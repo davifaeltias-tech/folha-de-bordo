@@ -4,10 +4,9 @@ date: 2025-09-10 09:01:18
 slug: moneyball-uma-filosofia-lucrativa-que-esta-crescendo-no-futebol
 categoria: "Artigos de Opinião"
 resumo: "Por Pedro Souza O moneyball é uma filosofia em que os clubes buscam jogadores jovens, preocupando-se apenas com o retorno técnico e financeiro. Com o tempo de jogo e a valorização certa, eles podem ser…"
+autor: "Pedro Souza"
 imagem: "/assets/img/gettyimages-479814954.webp"
 ---
-
-<p><strong>Por Pedro Souza</strong></p>
 
 <p>O <em>moneyball</em> é uma filosofia em que os clubes buscam jogadores jovens, preocupando-se apenas com o retorno técnico e financeiro. Com o tempo de jogo e a valorização certa, eles podem ser vendidos por cifras muito superiores às de compra. Em minha opinião, essa filosofia só tende a crescer no cenário futebolístico, já que o esporte está se tornando cada vez mais dinâmico e os valores cobrados pelos clubes para negociar seus atletas estão se inflando.</p>
 

@@ -4,12 +4,10 @@ date: 2024-11-13 17:11:44
 slug: a-droga-da-obediencia-o-que-esperar-2
 categoria: "Resenhas Literárias"
 resumo: "Por José Leonardo de Assis, Year 7B - Maple Bear/JP Vamos lá, vamos dar uma polida nesse texto! \"A Droga da Obediência\" é o primeiro livro da série \"Os Karas\", escrito por Pedro Bandeira em 1984, quando tinha…"
+autor: "José Leonardo de Assis"
+turma: "Year 7B"
 imagem: "/assets/img/hq720.jpg"
----
-
-<p>Por José Leonardo de Assis, Year 7B - Maple Bear/JP</p>
-
-<p>Vamos lá, vamos dar uma polida nesse texto!</p>
+---<p>Vamos lá, vamos dar uma polida nesse texto!</p>
 
 <p>"A Droga da Obediência" é o primeiro livro da série "Os Karas", escrito por Pedro Bandeira em 1984, quando tinha apenas 22 anos. Ao ler o livro pela primeira vez, imaginei que seria uma história sobre crianças em conflito com seus pais, mas a trama é muito mais complexa.</p>
 

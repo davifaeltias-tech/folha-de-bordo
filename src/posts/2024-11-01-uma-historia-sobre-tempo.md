@@ -4,12 +4,10 @@ date: 2024-11-01 13:17:30
 slug: uma-historia-sobre-tempo
 categoria: "Resenhas Literárias"
 resumo: "Por Giovanna Maier , Year 7B - Maple Bear/JP Tokyo Revengers é um mangá de 31 volumes, lançado no Brasil pela editora JBC em 2017, ilustrado e escrito por Ken Wakui. A história fala sobre a missão de um jovem…"
+autor: "Giovanna Maier"
+turma: "Year 7B"
 imagem: "/assets/img/desktop-wallpaper-tokyo-revengers-1920x1080-anime-tokyo-revenger-ps4.webp"
----
-
-<p>Por Giovanna <em>Maier</em>, Year 7B - Maple Bear/JP</p>
-
-<p><strong>Tokyo Revengers</strong> é um mangá de 31 volumes, lançado no Brasil pela editora JBC em 2017, ilustrado e escrito por Ken Wakui. A história fala sobre a missão de um jovem adulto de 26 anos que, acidentalmente, volta no tempo e decide ajudar o irmão de sua antiga namorada a salvá-la no futuro, alterando o passado.</p>
+---<p><strong>Tokyo Revengers</strong> é um mangá de 31 volumes, lançado no Brasil pela editora JBC em 2017, ilustrado e escrito por Ken Wakui. A história fala sobre a missão de um jovem adulto de 26 anos que, acidentalmente, volta no tempo e decide ajudar o irmão de sua antiga namorada a salvá-la no futuro, alterando o passado.</p>
 
 <p>Takemichi Hanagaki, o protagonista, é empurrado nos trilhos de um metrô e volta 12 anos no tempo. Após passar um dia revendo sua vida de colegial, ele, acidentalmente, volta ao futuro ao apertar a mão de Naoto, irmão de sua ex-namorada Hinata. No futuro, Takemichi se encontra com o Naoto adulto, que pede sua ajuda para salvar Hinata, morta em um acidente envolvendo uma gangue. A partir daí, Takemichi e Naoto trabalham juntos para salvar Hinata, e Takemichi se aproxima da gangue responsável pela morte dela, tentando mudar o futuro.</p>
 

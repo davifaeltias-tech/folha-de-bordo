@@ -4,12 +4,9 @@ date: 2025-07-24 09:43:07
 slug: a-discordia-da-familia-earnshaw-o-morro-dos-ventos-uivantes
 categoria: "Resenhas Literárias"
 resumo: "Por José Lopes A amada e odiada narrativa de O Morro dos Ventos Uivantes , de Emily Brontë, apresenta em suas 111 páginas a história de um pequeno menino que, ao ser adotado, causou discórdia entre todos que…"
+autor: "José Lopes"
 imagem: "/assets/img/71lqmkoeosl.jpg"
----
-
-<p>Por José Lopes <sup></sup></p>
-
-<p>A amada e odiada narrativa de <em>O Morro dos Ventos Uivantes</em>, de Emily Brontë, apresenta em suas 111 páginas a história de um pequeno menino que, ao ser adotado, causou discórdia entre todos que vivem por perto. A obra aborda um gênero dramático, pois em sua história podemos observar personagens, textos e falas muito dramáticas. O livro foi adaptado e traduzido por Vilma Arêas, sendo a versão adaptada publicada em 1997 com grande sucesso de bilheteria, resultando, por exemplo, em sete filmes diferentes! </p>
+---<p>A amada e odiada narrativa de <em>O Morro dos Ventos Uivantes</em>, de Emily Brontë, apresenta em suas 111 páginas a história de um pequeno menino que, ao ser adotado, causou discórdia entre todos que vivem por perto. A obra aborda um gênero dramático, pois em sua história podemos observar personagens, textos e falas muito dramáticas. O livro foi adaptado e traduzido por Vilma Arêas, sendo a versão adaptada publicada em 1997 com grande sucesso de bilheteria, resultando, por exemplo, em sete filmes diferentes! </p>
 
 <p>A narrativa, situada em 1801, na Inglaterra, desenvolve-se a partir da apresentação de Lockwood, um inglês rico e locatário de um local chamado Granja dos Tordos. <sup></sup>Nesta casa, conhecemos Ellen, a governanta do espaço, que narra a Lockwood a história da família Earnshaw, uma boa parentela até que adotaram um órfão chamado Heathcliff. <sup></sup>Este, por sua vez, é o atual arrendatário da Granja onde Lockwood alugou. <sup></sup>Ellen relata que Heathcliff causou discórdia a todos ao seu redor (principalmente na família Earnshaw) por muito tempo. <sup></sup>Além desses personagens, conhecemos Catherine, a mulher por quem Heathcliff se apaixonou e que foi uma das principais pessoas a causar a ira desse homem. <sup></sup></p>
 

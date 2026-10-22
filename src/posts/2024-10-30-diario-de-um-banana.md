@@ -4,12 +4,10 @@ date: 2024-10-30 08:51:04
 slug: diario-de-um-banana
 categoria: "Resenhas Literárias"
 resumo: "Por Gabriel Claudino, Year 7A - Maple Bear/PB O livro Diário de um Banana , escrito por Jeff Kinney e publicado em maio de 2008, é o primeiro de uma série de dezoito livros. A trama acompanha Greg Heffley e…"
+autor: "Gabriel Claudino"
+turma: "Year 7A"
 imagem: "/assets/img/img_0730.webp"
----
-
-<p>Por Gabriel Claudino, Year 7A - Maple Bear/PB</p>
-
-<p>O livro <em>Diário de um Banana</em>, escrito por Jeff Kinney e publicado em maio de 2008, é o primeiro de uma série de dezoito livros. A trama acompanha Greg Heffley e seu melhor amigo, Rowley Jefferson, enquanto ambos enfrentam o desafio de se adaptar ao sexto ano na escola Westmore Middle School. Será que, ao final dessa história, eles conseguirão superar todas as dificuldades?</p>
+---<p>O livro <em>Diário de um Banana</em>, escrito por Jeff Kinney e publicado em maio de 2008, é o primeiro de uma série de dezoito livros. A trama acompanha Greg Heffley e seu melhor amigo, Rowley Jefferson, enquanto ambos enfrentam o desafio de se adaptar ao sexto ano na escola Westmore Middle School. Será que, ao final dessa história, eles conseguirão superar todas as dificuldades?</p>
 
 <p>Greg Heffley vive com sua família na Rua Surrey. Sua mãe, Susan, é uma mulher alegre e dedicada, enquanto seu pai, Frank, é trabalhador e tranquilo. Ele também tem dois irmãos: Rodrick, um adolescente rebelde e fã de rock, e Manny, o caçula travesso da família.</p>
 

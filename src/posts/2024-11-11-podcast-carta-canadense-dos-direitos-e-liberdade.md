@@ -4,10 +4,11 @@ date: 2024-11-11 14:29:19
 slug: podcast-carta-canadense-dos-direitos-e-liberdade
 categoria: "Podcast"
 resumo: "Por Antonio de Padua e Fernando Barros Neste episódio do podcast \"Central das Cartas\", Fernando e Padua exploram a Carta Canadense dos Direitos e Liberdades. A escolha dessa carta se deve ao fato de a escola…"
+autor:
+  - "Antonio de Padua"
+  - "Fernando Barros"
 imagem: "/assets/img/whatsapp-image-2024-11-11-at-14.23.33.jpeg"
 ---
-
-<p>Por Antonio de Padua e Fernando Barros</p>
 
 <p>Neste episódio do podcast "Central das Cartas", Fernando e Padua exploram a Carta Canadense dos Direitos e Liberdades. A escolha dessa carta se deve ao fato de a escola dos apresentadores ser canadense, motivando-os a aprofundar seus conhecimentos sobre o Canadá.</p>
 

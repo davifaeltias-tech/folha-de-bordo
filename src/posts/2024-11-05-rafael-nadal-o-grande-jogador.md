@@ -4,9 +4,9 @@ date: 2024-11-05 11:19:35
 slug: rafael-nadal-o-grande-jogador
 categoria: "Artigos de Opinião"
 resumo: "Por Sofia Carvalho, Year 7A - Maple Bear/JP O tênis é o quarto esporte mais praticado do mundo, mas poucas pessoas sabem jogar bem, e Rafael Nadal é uma delas. Ele, definitivamente, é um dos maiores tenistas…"
+autor: "Sofia Carvalho"
+turma: "Year 7A"
 ---
-
-<p>Por Sofia Carvalho, Year 7A - Maple Bear/JP</p>
 
 <p>O tênis é o quarto esporte mais praticado do mundo, mas poucas pessoas sabem jogar bem, e Rafael Nadal é uma delas. Ele, definitivamente, é um dos maiores tenistas da história. Para mim, o mais importante em Nadal é sua técnica excepcional e, principalmente, seu controle mental.</p>
 

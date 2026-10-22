@@ -4,12 +4,10 @@ date: 2024-11-05 10:46:45
 slug: os-ultimos-jovens-da-terra-a-aventura-de-june
 categoria: "Resenhas Literárias"
 resumo: "Por Otto Colonnelli, Year 7B - Maple Bear/João Pessoa O livro Os Últimos Jovens da Terra: A Aventura de June , escrito por Max Brailier, foi publicado em 2021 pela editora Milk Shakespeare e possui 201…"
+autor: "Otto Colonnelli"
+turma: "Year 7B"
 imagem: "/assets/img/71rs6atfmml.jpg"
----
-
-<p>Por Otto Colonnelli, Year 7B - Maple Bear/João Pessoa</p>
-
-<p>O livro <em>Os Últimos Jovens da Terra: A Aventura de June</em>, escrito por Max Brailier, foi publicado em 2021 pela editora Milk Shakespeare e possui 201 páginas. Este é o quinto volume da coleção e o primeiro a ser narrado do ponto de vista de June, em vez de Jack. A história se passa em um cenário apocalíptico, onde June se separa de seus amigos e acaba capturada por monstros. Será que ela conseguirá sobreviver?</p>
+---<p>O livro <em>Os Últimos Jovens da Terra: A Aventura de June</em>, escrito por Max Brailier, foi publicado em 2021 pela editora Milk Shakespeare e possui 201 páginas. Este é o quinto volume da coleção e o primeiro a ser narrado do ponto de vista de June, em vez de Jack. A história se passa em um cenário apocalíptico, onde June se separa de seus amigos e acaba capturada por monstros. Será que ela conseguirá sobreviver?</p>
 
 <p>Os personagens principais são Jack, que sempre quer ser o “herói”; June, que é a mais organizada; Dirk, o mais forte; e Quint, o inventor do grupo. A história se desenrola nos Estados Unidos, em um ambiente devastado, e June acaba descobrindo uma informação essencial para a aventura. A quarta capa do livro é curta, mas apresenta a trama sem dar nenhum spoiler importante.</p>
 

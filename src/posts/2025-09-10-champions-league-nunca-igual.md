@@ -4,12 +4,11 @@ date: 2025-09-10 08:50:24
 slug: champions-league-nunca-igual
 categoria: "Artigos de Opinião"
 resumo: "Por Vicente Aranha A UEFA Champions League é muito mais que uma competição, é uma confraternização de loucos por futebol. É onde as estrelas nascem e as lendas morrem. Ela sempre teve um padrão comum, mas na…"
+autor: "Vicente Aranha"
 imagem: "/assets/img/champions.webp"
 ---
 
 <h3 class="wp-block-heading"></h3>
-
-<p><strong>Por Vicente Aranha</strong></p>
 
 <p>A UEFA Champions League é muito mais que uma competição, é uma confraternização de loucos por futebol. É onde as estrelas nascem e as lendas morrem. Ela sempre teve um padrão comum, mas na última edição o modelo mudou para algo muito pior.</p>
 

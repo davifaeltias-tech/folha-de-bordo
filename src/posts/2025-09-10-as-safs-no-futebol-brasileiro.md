@@ -4,10 +4,9 @@ date: 2025-09-10 08:57:37
 slug: as-safs-no-futebol-brasileiro
 categoria: "Artigos de Opinião"
 resumo: "Por Pedro Cavalcante Em 2022, o site oficial do Botafogo fez uma enquete sobre a venda do time para o empresário bilionário John Textor. A maioria dos torcedores votou contra. Esse modelo é problemático, como…"
+autor: "Pedro Cavalcante"
 imagem: "/assets/img/3f197c_b838d7aa186d42f087cd2921ac2c724cmv2.jpg"
 ---
-
-<p><strong>Por Pedro Cavalcante</strong></p>
 
 <p>Em 2022, o site oficial do Botafogo fez uma enquete sobre a venda do time para o empresário bilionário John Textor. A maioria dos torcedores votou contra. Esse modelo é problemático, como mostra o caso do Vasco da Gama, cujo ex-comprador foi acusado de lavagem de dinheiro. Como efeito, isso nos faz refletir em relação à mercantilização do clube, portanto, a pauta tem um lado negativo importante.</p>
 

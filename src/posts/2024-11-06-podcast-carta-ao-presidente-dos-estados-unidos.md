@@ -4,10 +4,12 @@ date: 2024-11-06 09:50:22
 slug: podcast-carta-ao-presidente-dos-estados-unidos
 categoria: "Podcast"
 resumo: "Por Júlia Neiva e Sofia Carvalho, Year 7A - Maple Bear/JP Neste episódio, você vai conhecer uma carta muito curiosa enviada ao presidente dos Estados Unidos. Você não imagina quem é o remete dessa epístola!…"
+autor:
+  - "Júlia Neiva"
+  - "Sofia Carvalho"
+turma: "Year 7A"
 imagem: "/assets/img/20240809_132422.jpeg"
 ---
-
-<p>Por Júlia Neiva e Sofia Carvalho, Year 7A - Maple Bear/JP</p>
 
 <p>Neste episódio, você vai conhecer uma carta muito curiosa enviada ao presidente dos Estados Unidos. Você não imagina quem é o remete dessa epístola! Vem com a gente.</p>
 

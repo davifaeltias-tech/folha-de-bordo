@@ -4,12 +4,9 @@ date: 2025-07-24 10:00:35
 slug: nao-recomendo-a-megera-domada
 categoria: "Resenhas Literárias"
 resumo: "Por Lucas Duques A Megera Domada é uma comédia romântica inspirada em uma peça teatral de William Shakespeare. A obra foi adaptada para um texto em prosa por Júlio Emílio Braz e lançada pela editora Principis…"
+autor: "Lucas Duques"
 imagem: "/assets/img/71i0evlre0l.jpg"
----
-
-<p>Por Lucas Duques</p>
-
-<p><em>A Megera Domada</em> é uma comédia romântica inspirada em uma peça teatral de William Shakespeare. A obra foi adaptada para um texto em prosa por Júlio Emílio Braz e lançada pela editora Principis em 2020.</p>
+---<p><em>A Megera Domada</em> é uma comédia romântica inspirada em uma peça teatral de William Shakespeare. A obra foi adaptada para um texto em prosa por Júlio Emílio Braz e lançada pela editora Principis em 2020.</p>
 
 <p>Este livro conta a história de um pobre homem chamado Sly, que é enganado por nobres que o fazem acreditar que ele é um nobre assistindo a uma peça<sup></sup>. A peça, que se passa em Pádua, na Itália, narra a história de Catarina, uma mulher que não queria se casar<sup></sup>. No entanto, um homem chamado Petruchio a força a se casar com ele e, de certo modo, a manipula, maltratando-a para que ela perceba que, se o obedecer, terá um casamento pacífico<sup></sup>.</p>
 

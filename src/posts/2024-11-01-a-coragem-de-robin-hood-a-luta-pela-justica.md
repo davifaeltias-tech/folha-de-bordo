@@ -4,12 +4,10 @@ date: 2024-11-01 13:09:40
 slug: a-coragem-de-robin-hood-a-luta-pela-justica
 categoria: "Resenhas Literárias"
 resumo: "Por Fernando Sousa, Year 7B - Maple Bear/JP Hoje vou apresentar a resenha do livro Robin Hood . O autor original é William Langland, mas vou falar sobre a releitura feita por Monteiro Lobato, publicada pela…"
+autor: "Fernando Sousa"
+turma: "Year 7B"
 imagem: "/assets/img/robin-hood-capa-1116605_widelg.webp"
----
-
-<p>Por Fernando Sousa, Year 7B - Maple Bear/JP</p>
-
-<p>Hoje vou apresentar a resenha do livro <em>Robin Hood</em>. O autor original é William Langland, mas vou falar sobre a releitura feita por Monteiro Lobato, publicada pela Editora La Fonte. No livro, encontramos contos de fadas, ação, aventura e suspense.</p>
+---<p>Hoje vou apresentar a resenha do livro <em>Robin Hood</em>. O autor original é William Langland, mas vou falar sobre a releitura feita por Monteiro Lobato, publicada pela Editora La Fonte. No livro, encontramos contos de fadas, ação, aventura e suspense.</p>
 
 <p>A história se passa na Inglaterra entre os anos de 1250 e 1300. Os personagens principais são: Robin Hood, o arqueiro que roubava dos ricos para ajudar os pobres; Mariah, o par romântico de Robin e parte da equipe; Frei Tuck, um membro do clero e defensor dos necessitados; João Pequeno, amigo de Robin, que, apesar do nome, é grande fisicamente; Rei Ricardo Coração de Leão, que estava no poder na época; e, por último, o xerife de Nottingham, o cobrador de impostos que impunha a dura lei.</p>
 

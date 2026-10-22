@@ -4,12 +4,9 @@ date: 2025-07-24 09:31:08
 slug: suspense-e-aventura-na-terra-media
 categoria: "Resenhas Literárias"
 resumo: "Por Heitor Diniz A aventura de Bilbo Bolseiro foi escrita por J.R.R. Tolkien, editada por Harper Collins e traduzida por Luiz Alberto Monjardim. A edição em e-book possui 410 páginas e seu primeiro lançamento…"
+autor: "Heitor Diniz"
 imagem: "/assets/img/bilbo-bolseiro.webp"
----
-
-<p>Por Heitor Diniz <sup></sup></p>
-
-<p><em>A aventura de Bilbo Bolseiro</em> foi escrita por J.R.R. Tolkien, editada por Harper Collins e traduzida por Luiz Alberto Monjardim. A edição em e-book possui 410 páginas e seu primeiro lançamento foi em 21 de setembro de 1937. O gênero do livro é ação e suspense. O livro "<em>O Hobbit</em>" apresenta uma ilustração de floresta com uma montanha muito grande no topo e o nome do livro em destaque.</p>
+---<p><em>A aventura de Bilbo Bolseiro</em> foi escrita por J.R.R. Tolkien, editada por Harper Collins e traduzida por Luiz Alberto Monjardim. A edição em e-book possui 410 páginas e seu primeiro lançamento foi em 21 de setembro de 1937. O gênero do livro é ação e suspense. O livro "<em>O Hobbit</em>" apresenta uma ilustração de floresta com uma montanha muito grande no topo e o nome do livro em destaque.</p>
 
 <p>Há uma cena de grande importância para o universo criado por J.R.R. Tolkien, que teve continuidade em "<em>O Senhor dos Anéis</em> e outros contos". Essa cena ocorre quando Bilbo coloca o anel e escapa de uma caverna, encontrando Gandalf – um mago alto, velho e sobre quem não sabemos muito. Ele também encontra Gollum, que é pequeno, possui uma personalidade muito forte e é bastante desconhecido neste universo. Na minha opinião, o mais importante é Bilbo Bolseiro: ele é pequeno, tem pés peludos e gigantes, e é muito preguiçoso.</p>
 

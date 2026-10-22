@@ -4,10 +4,10 @@ date: 2024-10-30 17:14:22
 slug: hanako-kun-e-os-misterios-do-colegio-kamome-volume-1
 categoria: "Geral"
 resumo: "Por Alexandra Dantas, Year 7B - Maple Bear/JP Hoje vou falar sobre Hanako-kun e os Mistérios do Colégio Kamome , especificamente o volume 1, que conta o começo da história deste mangá. O primeiro volume foi…"
+autor: "Alexandra Dantas"
+turma: "Year 7B"
 imagem: "/assets/img/61qrubijyl.webp"
 ---
-
-<p>Por Alexandra Dantas, Year 7B - Maple Bear/JP</p>
 
 <p>Hoje vou falar sobre <em>Hanako-kun e os Mistérios do Colégio Kamome</em>, especificamente o volume 1, que conta o começo da história deste mangá. O primeiro volume foi escrito por Iro Aida em 2014 e publicado na revista <em>Monthly GFantasy</em> antes de se tornar um mangá. Atualmente, a série conta com 21 volumes (até fevereiro de 2024).</p>
 

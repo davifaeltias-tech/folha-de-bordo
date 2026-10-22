@@ -4,12 +4,9 @@ date: 2025-07-24 10:24:03
 slug: uma-critica-social-jogos-vorazes-primeiro-livro-da-trilogia
 categoria: "Resenhas Literárias"
 resumo: "Por Miguel Saraiva Coutinho Jogos Vorazes é uma \"obra de arte\" em letras. O livro foi escrito por Suzanne Collins em 14 de setembro de 2008 e publicado pela editora Rocco, sem ilustrações. Trata-se de uma obra…"
+autor: "Miguel Saraiva Coutinho"
 imagem: "/assets/img/61zbhzjs4ll._uf10001000_ql80_.jpg"
----
-
-<p>Por Miguel Saraiva Coutinho</p>
-
-<p><em>Jogos Vorazes</em> é uma "obra de arte" em letras. O livro foi escrito por Suzanne Collins em 14 de setembro de 2008 e publicado pela editora Rocco, sem ilustrações. Trata-se de uma obra de distopia e ação, traduzida pela ISBN, com 397 páginas e uma capa mole e lisa que apresenta um pássaro desenhado. A coleção <em>Jogos Vorazes</em> é composta por quatro livros: <em>Jogos Vorazes</em> (1), <em>Em Chamas</em> (2), <em>A Esperança</em> (3) e <em>A Cantiga dos Pássaros e das Serpentes</em> (4). O quarto livro narra o passado do líder da Capital, enquanto os três primeiros abordam a história mais atual. Hoje, falarei sobre o primeiro livro.</p>
+---<p><em>Jogos Vorazes</em> é uma "obra de arte" em letras. O livro foi escrito por Suzanne Collins em 14 de setembro de 2008 e publicado pela editora Rocco, sem ilustrações. Trata-se de uma obra de distopia e ação, traduzida pela ISBN, com 397 páginas e uma capa mole e lisa que apresenta um pássaro desenhado. A coleção <em>Jogos Vorazes</em> é composta por quatro livros: <em>Jogos Vorazes</em> (1), <em>Em Chamas</em> (2), <em>A Esperança</em> (3) e <em>A Cantiga dos Pássaros e das Serpentes</em> (4). O quarto livro narra o passado do líder da Capital, enquanto os três primeiros abordam a história mais atual. Hoje, falarei sobre o primeiro livro.</p>
 
 <p>O livro foi muito aclamado por todos, recebendo elogios do "rei do terror", Stephen King, que disse: "I couldn't stop reading" ("não consegui parar de ler"). A obra vendeu mais de 85 milhões de cópias em todo o mundo, tornando-se um dos livros mais vendidos mundialmente. Além disso, recebeu uma adaptação cinematográfica em 23 de março de 2012, com Jennifer Lawrence e Josh Hutcherson no elenco do filme. No entanto, o foco de hoje é o livro, então vamos prosseguir.</p>
 

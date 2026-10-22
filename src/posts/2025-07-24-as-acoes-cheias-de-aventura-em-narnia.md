@@ -4,12 +4,9 @@ date: 2025-07-24 10:15:16
 slug: as-acoes-cheias-de-aventura-em-narnia
 categoria: "Resenhas Literárias"
 resumo: "Por Maria Elisa Cavalcanti Em 200 páginas, desenrola-se a história de As Crônicas de Nárnia . C.S. Lewis escreveu esta obra, e a WMF Martins Fontes foi a editora responsável por sua publicação de 1950 a 1956.…"
+autor: "Maria Elisa Cavalcanti"
 imagem: "/assets/img/d_nq_np_724436-mlb47140040429_082021-o.webp"
----
-
-<p>Por Maria Elisa Cavalcanti</p>
-
-<p>Em 200 páginas, desenrola-se a história de <em>As Crônicas de Nárnia</em>. C.S. Lewis escreveu esta obra, e a WMF Martins Fontes foi a editora responsável por sua publicação de 1950 a 1956. A tradução para o português foi feita por Paulo Mendes Campo, e a belíssima capa é de Rafael Brum.</p>
+---<p>Em 200 páginas, desenrola-se a história de <em>As Crônicas de Nárnia</em>. C.S. Lewis escreveu esta obra, e a WMF Martins Fontes foi a editora responsável por sua publicação de 1950 a 1956. A tradução para o português foi feita por Paulo Mendes Campo, e a belíssima capa é de Rafael Brum.</p>
 
 <p>A aventura de Pedro, Edmundo, Lúcia e Susana começa quando, em meio a uma brincadeira de esconde-esconde, eles entram em um guarda-roupa, escondido da professora, e encontram uma passagem secreta para outro mundo: Nárnia. Ao chegarem em Nárnia, ficam abismados com o lugar e encontram uma casa onde morava o Sr. Tumnus, um elfo que lhes conta tudo sobre Nárnia. O Sr. Tumnus lhes apresenta a Feiticeira Branca, que não gosta de crianças e é a vilã da história. Eles também conhecem Aslam, o rei de Nárnia. Aslam, o leão, era o rei daquele lugar e representava coragem, determinação e liderança. Ele também representava a salvação dos habitantes e de todo o reino, mesmo que para isso custasse sua vida.</p>
 

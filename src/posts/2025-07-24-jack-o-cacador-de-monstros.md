@@ -4,12 +4,9 @@ date: 2025-07-24 08:34:42
 slug: jack-o-cacador-de-monstros
 categoria: "Resenhas Literárias"
 resumo: "Por Arthur Cavalcanti Luna Os Últimos Jovens da Terra , de Max Brallier, autor best-seller do The New York Times , é repleto de ilustrações criadas por Douglas Holgate e possui uma linguagem acessível e…"
+autor: "Arthur Cavalcanti Luna"
 imagem: "/assets/img/9fc7592c17a5b4bd429e96ce162e0475.webp"
----
-
-<p>Por Arthur Cavalcanti Luna <sup></sup></p>
-
-<p><em>Os Últimos Jovens da Terra</em>, de Max Brallier, autor best-seller do <em>The New York Times</em>, é repleto de ilustrações criadas por Douglas Holgate e possui uma linguagem acessível e divertida, ideal para o entretenimento infantil e adolescente. Sua primeira versão foi publicada no Brasil pela Faro Editorial em 07 de setembro de 2019, com tradução de Cassius Medauar e contém 229 páginas.</p>
+---<p><em>Os Últimos Jovens da Terra</em>, de Max Brallier, autor best-seller do <em>The New York Times</em>, é repleto de ilustrações criadas por Douglas Holgate e possui uma linguagem acessível e divertida, ideal para o entretenimento infantil e adolescente. Sua primeira versão foi publicada no Brasil pela Faro Editorial em 07 de setembro de 2019, com tradução de Cassius Medauar e contém 229 páginas.</p>
 
 <p>Trata-se de uma história de aventura sobre Jack, um garoto de treze anos, e seus amigos Quint, Dirk e June. Eles tentam sobreviver na pequena cidade de Wakefield após a invasão de milhares de zumbis e monstros. Sem adultos responsáveis para ajudá-los, eles se abrigam na pequena casa da árvore localizada no quintal do que um dia foi a casa de Jack.</p>
 

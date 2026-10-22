@@ -4,12 +4,10 @@ date: 2024-10-29 11:46:04
 slug: harry-potter-e-a-pedra-filosofal
 categoria: "Resenhas Literárias"
 resumo: "Por Antonio Filho, Year 7 A - Maple Bear/JP Harry Potter e a Pedra Filosofal , escrito pela autora britânica J.K. Rowling, é um livro de aventura e fantasia que conta a história de um jovem chamado Harry James…"
+autor: "Antonio Filho"
+turma: "Year 7A"
 imagem: "/assets/img/81ibfyk4qml.webp"
----
-
-<p>Por Antonio Filho, Year 7 A - Maple Bear/JP</p>
-
-<p><em>Harry Potter e a Pedra Filosofal</em>, escrito pela autora britânica J.K. Rowling, é um livro de aventura e fantasia que conta a história de um jovem chamado Harry James Potter, que aos 11 anos descobre ser um bruxo e é convidado a estudar em uma escola de magia. O livro é excelente, voltado para o público juvenil.</p>
+---<p><em>Harry Potter e a Pedra Filosofal</em>, escrito pela autora britânica J.K. Rowling, é um livro de aventura e fantasia que conta a história de um jovem chamado Harry James Potter, que aos 11 anos descobre ser um bruxo e é convidado a estudar em uma escola de magia. O livro é excelente, voltado para o público juvenil.</p>
 
 <p>A história se passa principalmente na casa dos tios de Harry e em uma escola de magia chamada Hogwarts. Entre os principais personagens, temos Harry Potter, cuja principal característica é a coragem; Rony, amigo de Harry, que aparenta ser mais medroso; e Malfoy, o grande rival de Harry, especialmente no Quadribol, um esporte mágico que acirra essa rivalidade.</p>
 

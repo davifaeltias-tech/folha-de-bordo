@@ -4,10 +4,9 @@ date: 2024-11-11 14:37:53
 slug: a-importancia-do-esporte-na-formacao-do-carater
 categoria: "Artigos de Opinião"
 resumo: "Por Walquiria Macedo O esporte é um elemento essencial na formação do caráter, trazendo diversos benefícios como disciplina, dedicação e trabalho em equipe. Esses valores vão além do ambiente esportivo,…"
+autor: "Walquiria Macedo"
 imagem: "/assets/img/f4e8bbd3-c791-40df-a8de-c0970bf8b3dd.png"
 ---
-
-<p>Por Walquiria Macedo</p>
 
 <p>O esporte é um elemento essencial na formação do caráter, trazendo diversos benefícios como disciplina, dedicação e trabalho em equipe. Esses valores vão além do ambiente esportivo, promovendo não apenas a saúde física, mas também habilidades emocionais. Acredito que, através da prática esportiva, o desenvolvimento das pessoas melhora, especialmente o das crianças.</p>
 

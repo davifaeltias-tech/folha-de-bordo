@@ -4,9 +4,9 @@ date: 2024-11-05 11:51:45
 slug: por-que-o-santa-cruz-e-o-maior-time-de-recife
 categoria: "Artigos de Opinião"
 resumo: "Por Daniel Callou, Year 7A - Maple Bear/JP O Santa Cruz é o melhor time de Recife por vários motivos. Fundado em 3 de fevereiro de 1914 por onze jovens de 14 a 16 anos no pátio da Igreja de Santa Cruz, o clube…"
+autor: "Daniel Callou"
+turma: "Year 7A"
 ---
-
-<p>Por Daniel Callou, Year 7A - Maple Bear/JP</p>
 
 <p>O Santa Cruz é o melhor time de Recife por vários motivos. Fundado em 3 de fevereiro de 1914 por onze jovens de 14 a 16 anos no pátio da Igreja de Santa Cruz, o clube surgiu em uma época em que a maioria dos times não aceitava jogadores negros. Mas o Santa Cruz foi diferente, sendo conhecido como o "time do povo". Outro apelido é o "time de guerreiros", algo que fortalece ainda mais o clube.</p>
 

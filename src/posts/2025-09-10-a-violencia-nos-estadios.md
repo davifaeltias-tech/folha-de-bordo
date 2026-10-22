@@ -4,12 +4,11 @@ date: 2025-09-10 08:48:55
 slug: a-violencia-nos-estadios
 categoria: "Artigos de Opinião"
 resumo: "Por Victória Maria A violência nos estádios só tem aumentado, o que é um absurdo. As pessoas vão aos jogos para ter a experiência de ver o seu time preferido pessoalmente, e, mesmo que sejam times rivais, isso…"
+autor: "Victória Maria"
 imagem: "/assets/img/download.jpg"
 ---
 
 <h3 class="wp-block-heading"></h3>
-
-<p><strong>Por Victória Maria</strong></p>
 
 <p>A violência nos estádios só tem aumentado, o que é um absurdo. As pessoas vão aos jogos para ter a experiência de ver o seu time preferido pessoalmente, e, mesmo que sejam times rivais, isso não dá o direito de partir para a agressão. A torcida que pratica esse tipo de violência deve ser expulsa do estádio.</p>
 

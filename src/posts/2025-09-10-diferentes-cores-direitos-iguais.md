@@ -4,10 +4,9 @@ date: 2025-09-10 08:55:41
 slug: diferentes-cores-direitos-iguais
 categoria: "Artigos de Opinião"
 resumo: "Por Rafael Rodrigues Racismo. Xingamentos. Tudo isso tem se espalhado como veneno nos esportes. Várias ocorrências desse tipo viraram notícia internacional por conta do preconceito étnico. A seguir, mostrarei…"
+autor: "Rafael Rodrigues"
 imagem: "/assets/img/istockphoto-1187828086-612x612-1.jpg"
 ---
-
-<p><strong>Por Rafael Rodrigues</strong></p>
 
 <p>Racismo. Xingamentos. Tudo isso tem se espalhado como veneno nos esportes. Várias ocorrências desse tipo viraram notícia internacional por conta do preconceito étnico. A seguir, mostrarei o interior desses nojentos atos discriminatórios.</p>
 

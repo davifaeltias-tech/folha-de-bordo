@@ -4,12 +4,11 @@ date: 2025-09-10 08:52:47
 slug: o-aumento-dos-sites-de-apostas
 categoria: "Artigos de Opinião"
 resumo: "Por Raul Martino Em 2025, o Brasil enfrenta um grande problema com o aumento dos aplicativos de apostas, que afetam principalmente os cidadãos que gostam de esportes, mas também os atletas. Os sites causam…"
+autor: "Raul Martino"
 imagem: "/assets/img/1712854374847.png"
 ---
 
 <h3 class="wp-block-heading"></h3>
-
-<p><strong>Por Raul Martino</strong></p>
 
 <p>Em 2025, o Brasil enfrenta um grande problema com o aumento dos aplicativos de apostas, que afetam principalmente os cidadãos que gostam de esportes, mas também os atletas. Os sites causam vícios, gerando problemas como o aumento da dopamina e a compulsão. Para os atletas, a situação leva a punições e consequências para seus clubes, especialmente no futebol.</p>
 

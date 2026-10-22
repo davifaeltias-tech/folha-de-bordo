@@ -4,12 +4,9 @@ date: 2025-07-24 10:34:03
 slug: a-guerra-dos-casamentos
 categoria: "Resenhas Literárias"
 resumo: "Por Pedro Cavalcante A obra A Megera Domada , de William Shakespeare, é uma comédia romântica clássica. Escrita durante o Renascimento europeu, período que influenciou a trama pela relação com o amor e a…"
+autor: "Pedro Cavalcante"
 imagem: "/assets/img/71i0evlre0l.jpg"
----
-
-<p>Por Pedro Cavalcante</p>
-
-<p>A obra <em>A Megera Domada</em>, de William Shakespeare, é uma comédia romântica clássica. Escrita durante o Renascimento europeu, período que influenciou a trama pela relação com o amor e a razão, o livro apresenta um enredo imprevisível. Ao longo de suas 127 páginas, o leitor vivencia uma grande aventura, proporcionada pela editora Principis e pela adaptação de Júlio Emílio Braz.</p>
+---<p>A obra <em>A Megera Domada</em>, de William Shakespeare, é uma comédia romântica clássica. Escrita durante o Renascimento europeu, período que influenciou a trama pela relação com o amor e a razão, o livro apresenta um enredo imprevisível. Ao longo de suas 127 páginas, o leitor vivencia uma grande aventura, proporcionada pela editora Principis e pela adaptação de Júlio Emílio Braz.</p>
 
 <p>O enredo da história se passa na cidade de Pádua, na Itália, durante o século XVI, onde dois comerciantes desejam casar-se com duas irmãs. No entanto, o pai delas, Baptista, só permitirá que a filha mais nova, Bianca, se case quando a irmã mais velha, Catarina, estiver casada. Para resolver isso, eles arranjam um homem de outra cidade, Petrúcio, que busca uma esposa rica. Ao longo da trama, Petrúcio tenta conquistar Catarina de formas inusitadas e, enquanto isso, o comerciante Lucêncio se finge de professor de música para conquistar Bianca. A história, cheia de reviravoltas, é marcada pelo humor e pelas complexas dinâmicas entre os personagens.</p>
 

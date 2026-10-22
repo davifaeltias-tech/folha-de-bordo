@@ -4,12 +4,10 @@ date: 2024-10-30 17:30:13
 slug: jogos-vorazes
 categoria: "Resenhas Literárias"
 resumo: "Por Beatriz Toscano , Year 7B - Maple Bear/JP Jogos Vorazes foi escrito por Suzanne Collins e publicado pela editora Rocco. Lançado em 14/09/2008, o livro tem 397 páginas. A história fala sobre Katniss…"
+autor: "Beatriz Toscano"
+turma: "Year 7B"
 imagem: "/assets/img/41pbzcxfykl.webp"
----
-
-<p>Por <em>Beatriz Toscano</em>, Year 7B - Maple Bear/JP</p>
-
-<p><em>Jogos Vorazes</em> foi escrito por Suzanne Collins e publicado pela editora Rocco. Lançado em 14/09/2008, o livro tem 397 páginas. A história fala sobre Katniss Everdeen, que mora em Panem, especificamente no Distrito 12, o último e mais pobre de todos. Panem é governada pela Capital, que, após vencer uma guerra contra os distritos, criou os Jogos Vorazes como forma de lembrar e punir os distritos por sua revolta. Esses jogos são um evento anual em que dois jovens, um menino e uma menina entre 12 e 18 anos, são sorteados de cada distrito para competir. Eles vão à Capital, onde se preparam e, em uma arena, lutam até a morte, restando apenas um vencedor, que receberá uma grande recompensa. O que faz Katniss ser tão importante? Ela é uma heroína?</p>
+---<p><em>Jogos Vorazes</em> foi escrito por Suzanne Collins e publicado pela editora Rocco. Lançado em 14/09/2008, o livro tem 397 páginas. A história fala sobre Katniss Everdeen, que mora em Panem, especificamente no Distrito 12, o último e mais pobre de todos. Panem é governada pela Capital, que, após vencer uma guerra contra os distritos, criou os Jogos Vorazes como forma de lembrar e punir os distritos por sua revolta. Esses jogos são um evento anual em que dois jovens, um menino e uma menina entre 12 e 18 anos, são sorteados de cada distrito para competir. Eles vão à Capital, onde se preparam e, em uma arena, lutam até a morte, restando apenas um vencedor, que receberá uma grande recompensa. O que faz Katniss ser tão importante? Ela é uma heroína?</p>
 
 <p>Katniss Everdeen é corajosa, destemida e muito teimosa. Outro personagem importante é Peeta Mellark, um padeiro talentoso, que apesar das dificuldades, continua sendo amigável, justo e leal. Temos também Haymitch Abernathy, um mentor importante nos jogos. Ele é mandão, alcoólatra e meio descrente, mas conhece bem a brutalidade dos Jogos: “Ninguém nunca ganha os jogos. Ponto final. Há sobreviventes, não há vencedores.”</p>
 

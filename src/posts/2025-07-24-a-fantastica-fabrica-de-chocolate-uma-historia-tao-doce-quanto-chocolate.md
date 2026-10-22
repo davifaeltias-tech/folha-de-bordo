@@ -4,12 +4,9 @@ date: 2025-07-24 10:30:20
 slug: a-fantastica-fabrica-de-chocolate-uma-historia-tao-doce-quanto-chocolate
 categoria: "Resenhas Literárias"
 resumo: "Por Pedro Souza É importante ressaltar que este é um livro curto, com 176 páginas, sendo a maioria delas ilustradas . A capa é brochura, e os nomes do autor (Roald Dahl), da ilustradora (Quentin Blake) e da…"
+autor: "Pedro Souza"
 imagem: "/assets/img/81bx9xwj1jl.jpg"
----
-
-<p>Por Pedro Souza </p>
-
-<p>É importante ressaltar que este é um livro curto, com 176 páginas, sendo a maioria delas ilustradas<sup></sup>. A capa é brochura, e os nomes do autor (Roald Dahl), da ilustradora (Quentin Blake) e da editora (Martins Fontes) aparecem na capa, enquanto o nome da adaptadora (Dulce Horta) é mencionado apenas na terceira página<sup></sup>. Seu gênero é aventura <sup></sup>, e sua trama apresenta personagens como Charlie Bucket, Willy Wonka, Veruca Salt, Mike Teavee, Augustus Gloop, Violet Beauregarde e Vovô José<sup></sup>. Esta resenha se refere a uma edição publicada em 2016, mas a primeira edição veio em 1964<sup></sup>.</p>
+---<p>É importante ressaltar que este é um livro curto, com 176 páginas, sendo a maioria delas ilustradas<sup></sup>. A capa é brochura, e os nomes do autor (Roald Dahl), da ilustradora (Quentin Blake) e da editora (Martins Fontes) aparecem na capa, enquanto o nome da adaptadora (Dulce Horta) é mencionado apenas na terceira página<sup></sup>. Seu gênero é aventura <sup></sup>, e sua trama apresenta personagens como Charlie Bucket, Willy Wonka, Veruca Salt, Mike Teavee, Augustus Gloop, Violet Beauregarde e Vovô José<sup></sup>. Esta resenha se refere a uma edição publicada em 2016, mas a primeira edição veio em 1964<sup></sup>.</p>
 
 <p>A obra inicialmente narra a história de Charlie Bucket, um garoto muito pobre que vivia em uma casa com seus pais e seus quatro avós<sup></sup>. Eles levavam uma vida normal até receberem uma notícia que poderia mudar o rumo de suas vidas<sup></sup>.</p>
 
