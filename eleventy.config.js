@@ -7,6 +7,8 @@ const CATS = {
     desc: "O que a turma pensa sobre esporte, sociedade e o mundo." },
   "Manifestos": { slug: "manifestos", cor: "manifesto",
     desc: "Textos coletivos em que as turmas tomam posição sobre um tema e fazem pedidos ao mundo." },
+  "Reportagens": { slug: "reportagens", cor: "reportagem",
+    desc: "Reportagens apuradas pelos alunos do Year 6: pesquisa de campo, gráficos e entrevistas com especialistas." },
   "Nossos Livros": { slug: "nossos-livros", cor: "livros",
     desc: "Os livros de contos escritos e publicados pelos próprios alunos." },
   "Geral": { slug: "geral", cor: "geral", desc: "Publicações do blog." }
