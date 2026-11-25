@@ -4,7 +4,7 @@
   --line:#e4e8ed; --line-forte:#c9d1da;
   --bg:#fff; --surface:#f7f9fb; --surface-2:#eef2f6;
   --marca:#c8102e;
-  --resenha:#c8102e; --podcast:#6d28d9; --opiniao:#0b6bcb; --livros:#0f766e; --manifesto:#b45309; --reportagem:#166534; --geral:#475569;
+  --resenha:#c8102e; --podcast:#6d28d9; --opiniao:#0b6bcb; --livros:#0f766e; --manifesto:#b45309; --reportagem:#166534; --biografia:#7c2d57; --geral:#475569;
   --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
   --wrap:1220px; --raio:4px;
@@ -53,6 +53,10 @@ ul,ol{margin:0;padding:0}
 .nav__link--livros.is-atual::after{background:var(--livros)}
 .nav__link--manifesto.is-atual::after{background:var(--manifesto)}
 .nav__link--reportagem.is-atual::after{background:var(--reportagem)}
+.nav__link--biografia.is-atual::after{background:var(--biografia)}
+.etiqueta--biografia{background:var(--biografia)}
+.cartao--texto.is-biografia{border-top-color:var(--biografia)}
+.secao--biografia .secao__cab{border-color:var(--biografia)}
 
 .etiqueta{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.13em;
   text-transform:uppercase;color:#fff;background:var(--geral);padding:4px 8px;border-radius:2px}
