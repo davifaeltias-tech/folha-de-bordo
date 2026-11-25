@@ -9,6 +9,8 @@ const CATS = {
     desc: "Textos coletivos em que as turmas tomam posição sobre um tema e fazem pedidos ao mundo." },
   "Reportagens": { slug: "reportagens", cor: "reportagem",
     desc: "Reportagens apuradas pelos alunos do Year 6: pesquisa de campo, gráficos e entrevistas com especialistas." },
+  "Biografias": { slug: "biografias", cor: "biografia",
+    desc: "Vidas de paraibanos contadas pelos alunos do Year 6: pesquisa, datas conferidas e escrita em grupo." },
   "Nossos Livros": { slug: "nossos-livros", cor: "livros",
     desc: "Os livros de contos escritos e publicados pelos próprios alunos." },
   "Geral": { slug: "geral", cor: "geral", desc: "Publicações do blog." }
